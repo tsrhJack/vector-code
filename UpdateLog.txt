@@ -1,0 +1,10 @@
+Worried about during average pieces of code using the number of sides from a trial in the session. Maybe should keep track of what sides are included in a session for averaging by context, so that if the first trial only used the left data, but the next trial used both, we don't miss the other leg...
+
+10/1/2018
+worried about side not being an inpout for variable pull function. currently requires side as an input but doesn't use it
+
+Need to figure out how to handle file lists with both controls and non-controls
+
+
+10/2/2018
+I added the edge case updates to OneToOneAnalysis, but it hasn't been added to any other versions of the code

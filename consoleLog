@@ -1,0 +1,2102 @@
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: AF1105_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(1/40)J:\Norm\N\H0326\AF11\AF1105.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0326 AF1105 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0326 AF1105 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0326 AF1105 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1105 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1105 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: AF1108_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(2/40)J:\Norm\N\H0326\AF11\AF1108.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0326 AF1108 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0326 AF1108 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0326 AF1108 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1108 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1108 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AL0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(3/40)J:\Norm\N\H0435\AL09\AL0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0435 AL0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0435 AL0913 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0435 AL0913 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0913 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0913 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: AL0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(4/40)J:\Norm\N\H0435\AL09\AL0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0435 AL0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0435 AL0908 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0435 AL0908 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0908 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0908 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(5/40)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0458 AH0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(6/40)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0458 AH0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JP1107_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(7/40)J:\Norm\N\H0460\JP11\JP1107.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: JP1110_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(8/40)J:\Norm\N\H0460\JP11\JP1110.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0460 JP1110 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0460 JP1110 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0460 JP1110 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0460 JP1110 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0460 JP1110 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JS0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(9/40)J:\Norm\N\H0476\JS09\JS0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0476 JS0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0476 JS0908 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0476 JS0908 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0908 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0908 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: JS0910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(10/40)J:\Norm\N\H0476\JS09\JS0910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0476 JS0910 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0476 JS0910 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0476 JS0910 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0910 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0910 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: tb0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(11/40)J:\Norm\N\H0589\tb09\tb0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0589 tb0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0589 tb0913 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0589 tb0913 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0913 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0913 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: tb0911_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(12/40)J:\Norm\N\H0589\tb09\tb0911.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0589 tb0911 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0589 tb0911 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0589 tb0911 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0911 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0911 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: TW0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(13/40)J:\Norm\N\H0601\TW09\TW0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0601 TW0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0601 TW0908 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0601 TW0908 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0908 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0908 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: TW0907_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(14/40)J:\Norm\N\H0601\TW09\TW0907.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0601 TW0907 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0601 TW0907 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0601 TW0907 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0907 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0907 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JC9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(15/40)J:\Norm\N\H0602\JC99\JC9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: JC9910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(16/40)J:\Norm\N\H0602\JC99\JC9910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: DR9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(17/40)J:\Norm\N\H0603\DR99\DR9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: DR9910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(18/40)J:\Norm\N\H0603\DR99\DR9910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: More than one right cycle on c3d file. Fix Nexus File!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: RT9908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(19/40)J:\Norm\N\H0604\RT99\RT9908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: RT9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(20/40)J:\Norm\N\H0604\RT99\RT9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: SK0008_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(21/40)J:\Norm\N\H0738\SK00\SK0008.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: SK0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(22/40)J:\Norm\N\H0738\SK00\SK0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: More than one left cycle on c3d File. Fix Nexus file!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: DP0009_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(23/40)J:\Norm\N\H0769\DP00\DP0009.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: DP0013_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(24/40)J:\Norm\N\H0769\DP00\DP0013.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: AM0106_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(25/40)J:\Norm\N\H0773\AM01\AM0106.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: AM0111_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(26/40)J:\Norm\N\H0773\AM01\AM0111.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0773 AM0111 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0773 AM0111 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0773 AM0111 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0773 AM0111 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0773 AM0111 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: IC0110_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(27/40)J:\Norm\N\H0789\IC01\IC0110.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0789 IC0110 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0789 IC0110 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0789 IC0110 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0110 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0110 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: IC0111_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(28/40)J:\Norm\N\H0789\IC01\IC0111.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0789 IC0111 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0789 IC0111 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0789 IC0111 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0111 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0111 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: EB0217_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(29/40)J:\Norm\N\H0829\EB02\EB0217.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: EB0211_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(30/40)J:\Norm\N\H0829\EB02\EB0211.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0829 EB0211 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0829 EB0211 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0829 EB0211 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0829 EB0211 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0829 EB0211 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AS0113_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(31/40)J:\Norm\N\H0832\AS01\AS0113.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0832 AS0113 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0832 AS0113 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0832 AS0113 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0113 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0113 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: AS0117_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(32/40)J:\Norm\N\H0832\AS01\AS0117.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0832 AS0117 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0832 AS0117 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0832 AS0117 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0117 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0117 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: ND0116_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(33/40)J:\Norm\N\H0834\ND01\ND0116.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0834 ND0116 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0834 ND0116 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0834 ND0116 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0116 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0116 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: ND0113_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(34/40)J:\Norm\N\H0834\ND01\ND0113.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0834 ND0113 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0834 ND0113 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0834 ND0113 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0113 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0113 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: BR0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(35/40)J:\Norm\N\H0835\BR00\BR0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0835 BR0007 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: BR0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(36/40)J:\Norm\N\H0835\BR00\BR0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0835 BR0007 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at java.awt.image.ColorModel.getComponentSize(Unknown Source)
+	at java.awt.image.ColorModel.equals(Unknown Source)
+	at java.awt.image.PackedColorModel.equals(Unknown Source)
+	at java.awt.image.DirectColorModel.getDataElements(Unknown Source)
+	at sun.java2d.loops.OpaqueCopyArgbToAny.Blit(Unknown Source)
+	at sun.java2d.loops.GraphicsPrimitive.convertTo(Unknown Source)
+	at sun.java2d.loops.MaskBlit$General.MaskBlit(Unknown Source)
+	at sun.java2d.pipe.DrawImage.renderImageXform(Unknown Source)
+	at sun.java2d.pipe.DrawImage.transformImage(Unknown Source)
+	at sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+	at sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+	at sun.java2d.pipe.ValidatePipe.copyImage(Unknown Source)
+	at sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+	at sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+	at com.mathworks.hg.print.Graphics2DDecorator.drawImage(Graphics2DDecorator.java:700)
+	at jogamp.opengl.awt.AWTTilePainter$2.display(AWTTilePainter.java:380)
+	at com.jogamp.opengl.util.TileRendererBase$1.display(TileRendererBase.java:658)
+	at jogamp.opengl.GLDrawableHelper.displayImpl(GLDrawableHelper.java:691)
+	at jogamp.opengl.GLDrawableHelper.display(GLDrawableHelper.java:673)
+	at com.jogamp.opengl.awt.GLJPanel$Updater.plainPaint(GLJPanel.java:1450)
+	at com.jogamp.opengl.awt.GLJPanel$11.run(GLJPanel.java:1527)
+	at jogamp.opengl.GLDrawableHelper.invokeGLImpl(GLDrawableHelper.java:1277)
+	at jogamp.opengl.GLDrawableHelper.invokeGL(GLDrawableHelper.java:1131)
+	at com.jogamp.opengl.awt.GLJPanel$OffscreenBackend.doPlainPaint(GLJPanel.java:2110)
+	at com.jogamp.opengl.awt.GLJPanel.print(GLJPanel.java:919)
+	at com.mathworks.hg.peer.JavaSceneServerGLJPanel.print(JavaSceneServerGLJPanel.java:95)
+	at javax.swing.JComponent.printAll(Unknown Source)
+	at com.mathworks.hg.peer.HeavyweightLightweightContainerFactory$FigurePanelContainerPrinter.printFigurePanel(HeavyweightLightweightContainerFactory.java:635)
+	at com.mathworks.hg.peer.HeavyweightLightweightContainerFactory$FigurePanelContainerLight.printFigurePanel(HeavyweightLightweightContainerFactory.java:464)
+	at com.mathworks.hg.util.HGRasterOutputHelper$1.run(HGRasterOutputHelper.java:149)
+	at com.mathworks.jmi.AWTUtilities$Invoker$5$1.run(AWTUtilities.java:591)
+	at com.mathworks.mvm.context.ThreadContext$1.call(ThreadContext.java:76)
+!!!!!!!!
+java.lang.Exception: Stack trace
+	at java.lang.Thread.dumpStack(Unknown Source)
+	at com.mathworks.hg.util.OutputHelperProcessingException.<init>(OutputHelperProcessingException.java:17)
+	at com.mathworks.hg.util.HGRasterOutputHelper.generateOutput(HGRasterOutputHelper.java:168)
+!!!!!!!!
+Saved H0835 BR0007 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at java.awt.image.ColorModel.getComponentSize(Unknown Source)
+	at java.awt.image.ColorModel.equals(Unknown Source)
+	at java.awt.image.PackedColorModel.equals(Unknown Source)
+	at java.awt.image.DirectColorModel.getDataElements(Unknown Source)
+	at sun.java2d.loops.OpaqueCopyArgbToAny.Blit(Unknown Source)
+	at sun.java2d.loops.GraphicsPrimitive.convertTo(Unknown Source)
+	at sun.java2d.loops.MaskBlit$General.MaskBlit(Unknown Source)
+	at sun.java2d.pipe.DrawImage.renderImageXform(Unknown Source)
+	at sun.java2d.pipe.DrawImage.transformImage(Unknown Source)
+	at sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+	at sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+	at sun.java2d.pipe.ValidatePipe.copyImage(Unknown Source)
+	at sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+	at sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+	at com.mathworks.hg.print.Graphics2DDecorator.drawImage(Graphics2DDecorator.java:700)
+	at jogamp.opengl.awt.AWTTilePainter$2.display(AWTTilePainter.java:380)
+	at com.jogamp.opengl.util.TileRendererBase$1.display(TileRendererBase.java:658)
+	at jogamp.opengl.GLDrawableHelper.displayImpl(GLDrawableHelper.java:691)
+	at jogamp.opengl.GLDrawableHelper.display(GLDrawableHelper.java:673)
+	at com.jogamp.opengl.awt.GLJPanel$Updater.plainPaint(GLJPanel.java:1450)
+	at com.jogamp.opengl.awt.GLJPanel$11.run(GLJPanel.java:1527)
+	at jogamp.opengl.GLDrawableHelper.invokeGLImpl(GLDrawableHelper.java:1277)
+	at jogamp.opengl.GLDrawableHelper.invokeGL(GLDrawableHelper.java:1131)
+	at com.jogamp.opengl.awt.GLJPanel$OffscreenBackend.doPlainPaint(GLJPanel.java:2110)
+	at com.jogamp.opengl.awt.GLJPanel.print(GLJPanel.java:919)
+	at com.mathworks.hg.peer.JavaSceneServerGLJPanel.print(JavaSceneServerGLJPanel.java:95)
+	at javax.swing.JComponent.printAll(Unknown Source)
+	at com.mathworks.hg.peer.HeavyweightLightweightContainerFactory$FigurePanelContainerPrinter.printFigurePanel(HeavyweightLightweightContainerFactory.java:635)
+	at com.mathworks.hg.peer.HeavyweightLightweightContainerFactory$FigurePanelContainerLight.printFigurePanel(HeavyweightLightweightContainerFactory.java:464)
+	at com.mathworks.hg.util.HGRasterOutputHelper$1.run(HGRasterOutputHelper.java:149)
+	at com.mathworks.jmi.AWTUtilities$Invoker$5$1.run(AWTUtilities.java:591)
+	at com.mathworks.mvm.context.ThreadContext$1.call(ThreadContext.java:76)
+!!!!!!!!
+java.lang.Exception: Stack trace
+	at java.lang.Thread.dumpStack(Unknown Source)
+	at com.mathworks.hg.util.OutputHelperProcessingException.<init>(OutputHelperProcessingException.java:17)
+	at com.mathworks.hg.util.HGRasterOutputHelper.generateOutput(HGRasterOutputHelper.java:168)
+!!!!!!!!
+Saved H0835 BR0007 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at java.awt.image.ColorModel.getComponentSize(Unknown Source)
+	at java.awt.image.ColorModel.equals(Unknown Source)
+	at java.awt.image.PackedColorModel.equals(Unknown Source)
+	at java.awt.image.DirectColorModel.getDataElements(Unknown Source)
+	at sun.java2d.loops.OpaqueCopyArgbToAny.Blit(Unknown Source)
+	at sun.java2d.loops.GraphicsPrimitive.convertTo(Unknown Source)
+	at sun.java2d.loops.MaskBlit$General.MaskBlit(Unknown Source)
+	at sun.java2d.pipe.DrawImage.renderImageXform(Unknown Source)
+	at sun.java2d.pipe.DrawImage.transformImage(Unknown Source)
+	at sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+	at sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+	at sun.java2d.pipe.ValidatePipe.copyImage(Unknown Source)
+	at sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+	at sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+	at com.mathworks.hg.print.Graphics2DDecorator.drawImage(Graphics2DDecorator.java:700)
+	at jogamp.opengl.awt.AWTTilePainter$2.display(AWTTilePainter.java:380)
+	at com.jogamp.opengl.util.TileRendererBase$1.display(TileRendererBase.java:658)
+	at jogamp.opengl.GLDrawableHelper.displayImpl(GLDrawableHelper.java:691)
+	at jogamp.opengl.GLDrawableHelper.display(GLDrawableHelper.java:673)
+	at com.jogamp.opengl.awt.GLJPanel$Updater.plainPaint(GLJPanel.java:1450)
+	at com.jogamp.opengl.awt.GLJPanel$11.run(GLJPanel.java:1527)
+	at jogamp.opengl.GLDrawableHelper.invokeGLImpl(GLDrawableHelper.java:1277)
+	at jogamp.opengl.GLDrawableHelper.invokeGL(GLDrawableHelper.java:1131)
+	at com.jogamp.opengl.awt.GLJPanel$OffscreenBackend.doPlainPaint(GLJPanel.java:2110)
+	at com.jogamp.opengl.awt.GLJPanel.print(GLJPanel.java:919)
+	at com.mathworks.hg.peer.JavaSceneServerGLJPanel.print(JavaSceneServerGLJPanel.java:95)
+	at javax.swing.JComponent.printAll(Unknown Source)
+	at com.mathworks.hg.peer.HeavyweightLightweightContainerFactory$FigurePanelContainerPrinter.printFigurePanel(HeavyweightLightweightContainerFactory.java:635)
+	at com.mathworks.hg.peer.HeavyweightLightweightContainerFactory$FigurePanelContainerLight.printFigurePanel(HeavyweightLightweightContainerFactory.java:464)
+	at com.mathworks.hg.util.HGRasterOutputHelper$1.run(HGRasterOutputHelper.java:149)
+	at com.mathworks.jmi.AWTUtilities$Invoker$5$1.run(AWTUtilities.java:591)
+	at com.mathworks.mvm.context.ThreadContext$1.call(ThreadContext.java:76)
+!!!!!!!!
+java.lang.Exception: Stack trace
+	at java.lang.Thread.dumpStack(Unknown Source)
+	at com.mathworks.hg.util.OutputHelperProcessingException.<init>(OutputHelperProcessingException.java:17)
+	at com.mathworks.hg.util.HGRasterOutputHelper.generateOutput(HGRasterOutputHelper.java:168)
+!!!!!!!!
+Saved H0835 BR0007 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+!!!!!!!!
+java.lang.Exception: Stack trace
+	at java.lang.Thread.dumpStack(Unknown Source)
+	at com.mathworks.hg.util.OutputHelperProcessingException.<init>(OutputHelperProcessingException.java:17)
+	at com.mathworks.hg.util.HGRasterOutputHelper.generateOutput(HGRasterOutputHelper.java:168)
+!!!!!!!!
+Saved H0835 BR0007 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Exception in thread "Explorer NavigationContext request queue" java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at java.lang.String.toLowerCase(Unknown Source)
+	at com.mathworks.matlab.api.explorer.FileLocation.checkExtension(FileLocation.java:180)
+	at com.mathworks.mlwidgets.explorer.extensions.archive.ZipFileMounter.open(ZipFileMounter.java:21)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.resolveLocation(VirtualFileSystem.java:297)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.getTarget(VirtualFileSystem.java:276)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.resolveLocation(VirtualFileSystem.java:285)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.getTarget(VirtualFileSystem.java:276)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.resolveLocation(VirtualFileSystem.java:285)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.getTarget(VirtualFileSystem.java:276)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.resolveLocation(VirtualFileSystem.java:285)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.getTarget(VirtualFileSystem.java:276)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.resolveLocation(VirtualFileSystem.java:285)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.getTarget(VirtualFileSystem.java:276)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.resolveLocation(VirtualFileSystem.java:285)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.getTarget(VirtualFileSystem.java:276)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.resolveLocation(VirtualFileSystem.java:285)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.getTarget(VirtualFileSystem.java:276)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.resolveLocation(VirtualFileSystem.java:285)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.getTarget(VirtualFileSystem.java:276)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.isMountPoint(VirtualFileSystem.java:239)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.toExternalEntry(VirtualFileSystem.java:324)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileSystem.toExternalEntry(VirtualFileSystem.java:319)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileList$MountingReceiver.receive(VirtualFileList.java:101)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileList$MountingReceiver.receive(VirtualFileList.java:90)
+	at com.mathworks.util.AsyncReceiverUtils$3.receive(AsyncReceiverUtils.java:77)
+	at com.mathworks.mlwidgets.explorer.model.realfs.StatToEntryAdapter.receive(StatToEntryAdapter.java:55)
+	at com.mathworks.mlwidgets.explorer.model.realfs.StatToEntryAdapter.receive(StatToEntryAdapter.java:16)
+	at com.mathworks.util.NativeJava.listFiles(Native Method)
+	at com.mathworks.mlwidgets.explorer.model.realfs.RealFileList.readFilesAndFolders(RealFileList.java:50)
+	at com.mathworks.mlwidgets.explorer.model.overlayfs.OverlayFileList.readFilesAndFolders(OverlayFileList.java:42)
+	at com.mathworks.mlwidgets.explorer.model.vfs.VirtualFileList.readFilesAndFolders(VirtualFileList.java:52)
+	at com.mathworks.mlwidgets.explorer.model.table.UiFileList.readAndUpdateCache(UiFileList.java:357)
+java.lang.OutOfMemoryError: Java heap space
+!!!!!!!!
+java.lang.Exception: Stack trace
+	at java.lang.Thread.dumpStack(Unknown Source)
+	at com.mathworks.hg.util.OutputHelperProcessingException.<init>(OutputHelperProcessingException.java:17)
+	at com.mathworks.hg.util.HGRasterOutputHelper.generateOutput(HGRasterOutputHelper.java:168)
+!!!!!!!!
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\graphics\print.m', 102)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\graphics\print.m',102,0)">line 102</a>)
+Cannot create output using the specified resolution. Try a lower resolution or a smaller output size.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('saveas', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\saveas.m', 168)" style="font-weight:bold">saveas</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\saveas.m',168,0)">line 168</a>)
+        print( h, name, ['-d' dev{i}] )
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('saveFigure', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\saveFigure.m', 10)" style="font-weight:bold">saveFigure</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\saveFigure.m',10,0)">line 10</a>)
+        saveas(mainFigure, fullfile(customSavePath,figureName), 'jpg')
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 771)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',771,0)">line 771</a>)
+                    saveFigure(currentSession, mainFigure, figureName)
+} 
+Loading file list...
+No variable list selected.
+main
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: AF1105_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(1/12)J:\Norm\N\H0326\AF11\AF1105.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0326 AF1105 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: AF1108_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(2/12)J:\Norm\N\H0326\AF11\AF1108.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0326 AF1108 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AL0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(3/12)J:\Norm\N\H0435\AL09\AL0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0435 AL0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: AL0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(4/12)J:\Norm\N\H0435\AL09\AL0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0435 AL0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(5/12)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0458 AH0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(6/12)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0458 AH0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JP1107_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(7/12)J:\Norm\N\H0460\JP11\JP1107.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0460 JP1107 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: JP1110_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(8/12)J:\Norm\N\H0460\JP11\JP1110.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0460 JP1110 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JS0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(9/12)J:\Norm\N\H0476\JS09\JS0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0476 JS0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: JS0910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(10/12)J:\Norm\N\H0476\JS09\JS0910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0476 JS0910 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: tb0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(11/12)J:\Norm\N\H0589\tb09\tb0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0589 tb0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: tb0911_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(12/12)J:\Norm\N\H0589\tb09\tb0911.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0589 tb0911 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+number_of_subjects =
+
+     6
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 947)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',947,0)">line 947</a>)
+                    currentSide = currentTrial.sides(ll);
+} 
+clear
+clc
+main
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: AF1105_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(1/12)J:\Norm\N\H0326\AF11\AF1105.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0326 AF1105 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: AF1108_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(2/12)J:\Norm\N\H0326\AF11\AF1108.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0326 AF1108 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AL0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(3/12)J:\Norm\N\H0435\AL09\AL0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0435 AL0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: AL0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(4/12)J:\Norm\N\H0435\AL09\AL0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0435 AL0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(5/12)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0458 AH0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(6/12)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0458 AH0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JP1107_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(7/12)J:\Norm\N\H0460\JP11\JP1107.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0460 JP1107 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: JP1110_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(8/12)J:\Norm\N\H0460\JP11\JP1110.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0460 JP1110 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JS0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(9/12)J:\Norm\N\H0476\JS09\JS0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0476 JS0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: JS0910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(10/12)J:\Norm\N\H0476\JS09\JS0910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0476 JS0910 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: tb0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(11/12)J:\Norm\N\H0589\tb09\tb0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0589 tb0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: tb0911_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(12/12)J:\Norm\N\H0589\tb09\tb0911.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0589 tb0911 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+number_of_subjects =
+
+     6
+
+running vector code average by context
+<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',1186,1)">1186 </a>                    currentPlane2 = txtVectorCode(kk,5);
+if system_dependent('IsDebugMode')==1, dbcont; end
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('VectorCode', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\VectorCode.m', 130)" style="font-weight:bold">VectorCode</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\VectorCode.m',130,0)">line 130</a>)
+    R_var = R(1,2); %takes the x-y correlation
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 1195)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',1195,0)">line 1195</a>)
+                        [mainFigure,figureName, bincounts] = VectorCode(currentVariable1, currentPlane1, norm1,...
+} 
+opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\VectorCode.m',130,0)
+clear
+clc
+main
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: AF1105_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(1/40)J:\Norm\N\H0326\AF11\AF1105.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0326 AF1105 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0326 AF1105 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0326 AF1105 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1105 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1105 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1105 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: AF1108_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(2/40)J:\Norm\N\H0326\AF11\AF1108.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0326 AF1108 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0326 AF1108 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0326 AF1108 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1108 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1108 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0326 AF1108 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AL0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(3/40)J:\Norm\N\H0435\AL09\AL0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0435 AL0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0435 AL0913 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0435 AL0913 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0913 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0913 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0913 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: AL0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(4/40)J:\Norm\N\H0435\AL09\AL0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0435 AL0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0435 AL0908 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0435 AL0908 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0908 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0908 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0435 AL0908 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(5/40)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0458 AH0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(6/40)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0458 AH0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0458 AH0913 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JP1107_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(7/40)J:\Norm\N\H0460\JP11\JP1107.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: JP1110_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(8/40)J:\Norm\N\H0460\JP11\JP1110.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0460 JP1110 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0460 JP1110 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0460 JP1110 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0460 JP1110 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0460 JP1110 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0460 JP1110 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JS0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(9/40)J:\Norm\N\H0476\JS09\JS0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0476 JS0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0476 JS0908 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0476 JS0908 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0908 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0908 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0908 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: JS0910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(10/40)J:\Norm\N\H0476\JS09\JS0910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0476 JS0910 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0476 JS0910 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0476 JS0910 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0910 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0910 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0476 JS0910 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: tb0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(11/40)J:\Norm\N\H0589\tb09\tb0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0589 tb0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0589 tb0913 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0589 tb0913 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0913 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0913 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0913 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: tb0911_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(12/40)J:\Norm\N\H0589\tb09\tb0911.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0589 tb0911 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0589 tb0911 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0589 tb0911 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0911 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0911 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0589 tb0911 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: TW0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(13/40)J:\Norm\N\H0601\TW09\TW0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0601 TW0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0601 TW0908 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0601 TW0908 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0908 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0908 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0908 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: TW0907_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(14/40)J:\Norm\N\H0601\TW09\TW0907.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0601 TW0907 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0601 TW0907 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0601 TW0907 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0907 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0907 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0601 TW0907 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JC9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(15/40)J:\Norm\N\H0602\JC99\JC9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: JC9910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(16/40)J:\Norm\N\H0602\JC99\JC9910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: DR9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(17/40)J:\Norm\N\H0603\DR99\DR9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: DR9910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(18/40)J:\Norm\N\H0603\DR99\DR9910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: More than one right cycle on c3d file. Fix Nexus File!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: RT9908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(19/40)J:\Norm\N\H0604\RT99\RT9908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: RT9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(20/40)J:\Norm\N\H0604\RT99\RT9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: SK0008_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(21/40)J:\Norm\N\H0738\SK00\SK0008.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: SK0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(22/40)J:\Norm\N\H0738\SK00\SK0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: More than one left cycle on c3d File. Fix Nexus file!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: DP0009_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(23/40)J:\Norm\N\H0769\DP00\DP0009.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: DP0013_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(24/40)J:\Norm\N\H0769\DP00\DP0013.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: AM0106_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(25/40)J:\Norm\N\H0773\AM01\AM0106.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: AM0111_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(26/40)J:\Norm\N\H0773\AM01\AM0111.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0773 AM0111 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0773 AM0111 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0773 AM0111 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0773 AM0111 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0773 AM0111 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0773 AM0111 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: IC0110_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(27/40)J:\Norm\N\H0789\IC01\IC0110.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0789 IC0110 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0789 IC0110 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0789 IC0110 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0110 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0110 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0110 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: IC0111_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(28/40)J:\Norm\N\H0789\IC01\IC0111.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0789 IC0111 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0789 IC0111 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0789 IC0111 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0111 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0111 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0789 IC0111 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: EB0217_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(29/40)J:\Norm\N\H0829\EB02\EB0217.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: EB0211_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(30/40)J:\Norm\N\H0829\EB02\EB0211.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0829 EB0211 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0829 EB0211 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0829 EB0211 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0829 EB0211 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0829 EB0211 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0829 EB0211 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AS0113_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(31/40)J:\Norm\N\H0832\AS01\AS0113.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0832 AS0113 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0832 AS0113 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0832 AS0113 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0113 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0113 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0113 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: AS0117_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(32/40)J:\Norm\N\H0832\AS01\AS0117.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0832 AS0117 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0832 AS0117 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0832 AS0117 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0117 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0117 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0832 AS0117 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: ND0116_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(33/40)J:\Norm\N\H0834\ND01\ND0116.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0834 ND0116 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0834 ND0116 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0834 ND0116 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0116 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0116 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0116 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: ND0113_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(34/40)J:\Norm\N\H0834\ND01\ND0113.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0834 ND0113 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0834 ND0113 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0834 ND0113 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0113 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0113 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0834 ND0113 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: BR0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(35/40)J:\Norm\N\H0835\BR00\BR0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0835 BR0007 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: BR0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(36/40)J:\Norm\N\H0835\BR00\BR0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0835 BR0007 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0835 BR0007 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: BC0114_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(37/40)J:\Norm\N\H0838\BC01\BC0114.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+[Warning: BC0108_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(38/40)J:\Norm\N\H0838\BC01\BC0108.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0838 BC0108 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0838 BC0108 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0838 BC0108 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0838 BC0108 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0838 BC0108 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0838 BC0108 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0838 BC0108 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0838 BC0108 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0838 BC0108 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0838 BC0108 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0838 BC0108 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: ED0106_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(39/40)J:\Norm\N\H0839\ED01\ED0106.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0839 ED0106 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0839 ED0106 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0839 ED0106 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0839 ED0106 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0839 ED0106 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0839 ED0106 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0839 ED0106 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0839 ED0106 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0839 ED0106 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0839 ED0106 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0839 ED0106 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+[Warning: ED0107_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(40/40)J:\Norm\N\H0839\ED01\ED0107.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0839 ED0107 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved H0839 ED0107 - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved H0839 ED0107 - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved H0839 ED0107 - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved H0839 ED0107 - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved H0839 ED0107 - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0839 ED0107 - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved H0839 ED0107 - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved H0839 ED0107 - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved H0839 ED0107 - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved H0839 ED0107 - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+number_of_subjects =
+
+    20
+
+running vector code average by context
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.axis.Axes/set')" style="font-weight:bold">matlab.graphics.axis.Axes/set</a>
+While setting the 'XLim' property of '<a href="matlab:doc matlab.graphics.axis.Axes">Axes</a>':
+Value must be a 1x2 vector of numeric type in which the second element is larger than the first and may be Inf
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('xlim', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\graph3d\xlim.m', 44)" style="font-weight:bold">xlim</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\graph3d\xlim.m',44,0)">line 44</a>)
+        set(ax,'xlim',val);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('VectorCode', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\VectorCode.m', 239)" style="font-weight:bold">VectorCode</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\VectorCode.m',239,0)">line 239</a>)
+    xlim([1 arrayLength]);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 1195)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',1195,0)">line 1195</a>)
+                        [mainFigure,figureName, bincounts] = VectorCode(currentVariable1, currentPlane1, norm1,...
+} 

@@ -1,0 +1,2068 @@
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: AF1105_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(1/40)J:\Norm\N\H0326\AF11\AF1105.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+[Warning: AF1108_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(2/40)J:\Norm\N\H0326\AF11\AF1108.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: AL0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(3/40)J:\Norm\N\H0435\AL09\AL0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: AL0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(4/40)J:\Norm\N\H0435\AL09\AL0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(5/40)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(6/40)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: JP1107_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(7/40)J:\Norm\N\H0460\JP11\JP1107.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: JP1110_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(8/40)J:\Norm\N\H0460\JP11\JP1110.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: JS0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(9/40)J:\Norm\N\H0476\JS09\JS0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: JS0910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(10/40)J:\Norm\N\H0476\JS09\JS0910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: tb0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(11/40)J:\Norm\N\H0589\tb09\tb0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: tb0911_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(12/40)J:\Norm\N\H0589\tb09\tb0911.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: TW0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(13/40)J:\Norm\N\H0601\TW09\TW0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: TW0907_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(14/40)J:\Norm\N\H0601\TW09\TW0907.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: JC9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(15/40)J:\Norm\N\H0602\JC99\JC9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: JC9910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(16/40)J:\Norm\N\H0602\JC99\JC9910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: DR9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(17/40)J:\Norm\N\H0603\DR99\DR9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: DR9910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(18/40)J:\Norm\N\H0603\DR99\DR9910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: More than one right cycle on c3d file. Fix Nexus File!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: RT9908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(19/40)J:\Norm\N\H0604\RT99\RT9908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: RT9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(20/40)J:\Norm\N\H0604\RT99\RT9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: SK0008_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(21/40)J:\Norm\N\H0738\SK00\SK0008.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: SK0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(22/40)J:\Norm\N\H0738\SK00\SK0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: More than one left cycle on c3d File. Fix Nexus file!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: DP0009_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(23/40)J:\Norm\N\H0769\DP00\DP0009.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: DP0013_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(24/40)J:\Norm\N\H0769\DP00\DP0013.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: AM0106_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(25/40)J:\Norm\N\H0773\AM01\AM0106.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: AM0111_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(26/40)J:\Norm\N\H0773\AM01\AM0111.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: IC0110_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(27/40)J:\Norm\N\H0789\IC01\IC0110.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: IC0111_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(28/40)J:\Norm\N\H0789\IC01\IC0111.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: EB0217_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(29/40)J:\Norm\N\H0829\EB02\EB0217.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: EB0211_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(30/40)J:\Norm\N\H0829\EB02\EB0211.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: AS0113_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(31/40)J:\Norm\N\H0832\AS01\AS0113.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: AS0117_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(32/40)J:\Norm\N\H0832\AS01\AS0117.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: ND0116_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(33/40)J:\Norm\N\H0834\ND01\ND0116.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: ND0113_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(34/40)J:\Norm\N\H0834\ND01\ND0113.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: BR0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(35/40)J:\Norm\N\H0835\BR00\BR0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: BR0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(36/40)J:\Norm\N\H0835\BR00\BR0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: BC0114_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(37/40)J:\Norm\N\H0838\BC01\BC0114.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 685)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',685,0)">line 685</a>)] 
+
+
+
+New Subject Created.
+[Warning: BC0108_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(38/40)J:\Norm\N\H0838\BC01\BC0108.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: ED0106_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(39/40)J:\Norm\N\H0839\ED01\ED0106.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: ED0107_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 598)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',598,0)">line 598</a>)] 
+(40/40)J:\Norm\N\H0839\ED01\ED0107.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+number_of_subjects =
+
+    39
+
+Running average variable pull across sides...
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('variablePull', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\variablePull.m', 80)" style="font-weight:bold">variablePull</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\variablePull.m',80,0)">line 80</a>)
+                        size(DataCycle,2), size(DataCycle,3), CycleNorm(min(strmatch(event1,eventsMap))) + 1, ...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 1147)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',1147,0)">line 1147</a>)
+                    [currentResult,currentTiming] = variablePull(currentVariable, currentPlane, event1, event2, ...
+} 
+clear
+clc
+main
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: AF1105_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 597)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',597,0)">line 597</a>)] 
+(1/40)J:\Norm\N\H0326\AF11\AF1105.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('strfind')" style="font-weight:bold">strfind</a>
+Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 489)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',489,0)">line 489</a>)
+            I = strfind(strcmp([Subjects.ID], currentID));
+} 
+clc
+clear
+main
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: AF1105_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(1/40)J:\Norm\N\H0326\AF11\AF1105.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+
+I =
+
+     1
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0326'
+           number: 1
+        last_name: 'Faulks'
+       first_name: 'Audrey'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: AF1108_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(2/40)J:\Norm\N\H0326\AF11\AF1108.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: AL0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(3/40)J:\Norm\N\H0435\AL09\AL0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+
+I =
+
+     2
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0435'
+           number: 4
+        last_name: 'Leung'
+       first_name: 'Alex'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: AL0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(4/40)J:\Norm\N\H0435\AL09\AL0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(5/40)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+
+I =
+
+     3
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0458'
+           number: 3
+        last_name: 'Hageman'
+       first_name: 'Alex'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(6/40)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: JP1107_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(7/40)J:\Norm\N\H0460\JP11\JP1107.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+
+I =
+
+     4
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0460'
+           number: 20
+        last_name: 'Paschall'
+       first_name: 'Jazmyne '
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: JP1110_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(8/40)J:\Norm\N\H0460\JP11\JP1110.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: JS0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(9/40)J:\Norm\N\H0476\JS09\JS0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+
+I =
+
+     5
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0476'
+           number: 17
+        last_name: 'Standefer'
+       first_name: 'Joshua'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: JS0910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(10/40)J:\Norm\N\H0476\JS09\JS0910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: tb0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(11/40)J:\Norm\N\H0589\tb09\tb0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+
+I =
+
+     6
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0589'
+           number: 16
+        last_name: 'Boyles'
+       first_name: 'Tyler'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: tb0911_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(12/40)J:\Norm\N\H0589\tb09\tb0911.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: TW0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(13/40)J:\Norm\N\H0601\TW09\TW0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+
+I =
+
+     7
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0601'
+           number: 12
+        last_name: 'White'
+       first_name: 'John'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: TW0907_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(14/40)J:\Norm\N\H0601\TW09\TW0907.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: JC9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(15/40)J:\Norm\N\H0602\JC99\JC9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+
+I =
+
+     8
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0602'
+           number: 1
+        last_name: 'Castillo'
+       first_name: 'Janelle'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: JC9910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(16/40)J:\Norm\N\H0602\JC99\JC9910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: DR9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(17/40)J:\Norm\N\H0603\DR99\DR9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+
+I =
+
+     9
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0603'
+           number: 21
+        last_name: 'Rochester'
+       first_name: 'Daniel'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: DR9910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(18/40)J:\Norm\N\H0603\DR99\DR9910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: More than one right cycle on c3d file. Fix Nexus File!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: RT9908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(19/40)J:\Norm\N\H0604\RT99\RT9908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+
+I =
+
+    10
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0604'
+           number: 1
+        last_name: 'Townsend'
+       first_name: 'Rhiannon'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: RT9912_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(20/40)J:\Norm\N\H0604\RT99\RT9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: SK0008_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(21/40)J:\Norm\N\H0738\SK00\SK0008.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+
+I =
+
+    11
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0738'
+           number: 13
+        last_name: 'Kim'
+       first_name: 'Sophia'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: SK0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(22/40)J:\Norm\N\H0738\SK00\SK0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: More than one left cycle on c3d File. Fix Nexus file!] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: DP0009_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(23/40)J:\Norm\N\H0769\DP00\DP0009.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+
+I =
+
+    12
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0769'
+           number: 4
+        last_name: 'Patton'
+       first_name: 'Dierdre'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: DP0013_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(24/40)J:\Norm\N\H0769\DP00\DP0013.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+New Subject Created.
+[Warning: AM0106_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(25/40)J:\Norm\N\H0773\AM01\AM0106.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+
+I =
+
+    13
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0773'
+           number: 23
+        last_name: 'Mayo'
+       first_name: 'Anna'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: AM0111_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(26/40)J:\Norm\N\H0773\AM01\AM0111.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: IC0110_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(27/40)J:\Norm\N\H0789\IC01\IC0110.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+
+I =
+
+    14
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0789'
+           number: 18
+        last_name: 'Chapa'
+       first_name: 'Isabella'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: IC0111_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(28/40)J:\Norm\N\H0789\IC01\IC0111.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: EB0217_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(29/40)J:\Norm\N\H0829\EB02\EB0217.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+
+I =
+
+    15
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0829'
+           number: 5
+        last_name: 'Baker'
+       first_name: 'Emilia'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: EB0211_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(30/40)J:\Norm\N\H0829\EB02\EB0211.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: AS0113_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(31/40)J:\Norm\N\H0832\AS01\AS0113.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+
+I =
+
+    16
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0832'
+           number: 22
+        last_name: 'Sykora'
+       first_name: 'Amanda'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: AS0117_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(32/40)J:\Norm\N\H0832\AS01\AS0117.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: ND0116_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(33/40)J:\Norm\N\H0834\ND01\ND0116.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+
+I =
+
+    17
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0834'
+           number: 7
+        last_name: 'Duguay'
+       first_name: 'Nicholas'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: ND0113_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(34/40)J:\Norm\N\H0834\ND01\ND0113.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: BR0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(35/40)J:\Norm\N\H0835\BR00\BR0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+
+I =
+
+    18
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0835'
+           number: 4
+        last_name: 'Rivera'
+       first_name: 'Bishop'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: BR0007_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(36/40)J:\Norm\N\H0835\BR00\BR0007.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: BC0114_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(37/40)J:\Norm\N\H0838\BC01\BC0114.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was
+requested by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 690)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',690,0)">line 690</a>)] 
+
+
+
+
+I =
+
+    19
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0838'
+           number: 21
+        last_name: 'Coffey'
+       first_name: 'Brandon'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: BC0108_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(38/40)J:\Norm\N\H0838\BC01\BC0108.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+New Subject Created.
+[Warning: ED0106_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(39/40)J:\Norm\N\H0839\ED01\ED0106.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+
+
+
+I =
+
+    20
+
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0839'
+           number: 1
+        last_name: 'Duncan'
+       first_name: 'Emma'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 0
+    reasonForFlag: []
+
+[Warning: ED0107_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(40/40)J:\Norm\N\H0839\ED01\ED0107.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+number_of_subjects =
+
+    20
+
+Running average variable pull across sides...
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('variablePull', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\variablePull.m', 80)" style="font-weight:bold">variablePull</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\variablePull.m',80,0)">line 80</a>)
+                        size(DataCycle,2), size(DataCycle,3), CycleNorm(min(strmatch(event1,eventsMap))) + 1, ...
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 1152)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',1152,0)">line 1152</a>)
+                    [currentResult,currentTiming] = variablePull(currentVariable, currentPlane, event1, event2, ...
+} 
+%% Adds data to Raw Data results sheet
+columnCounter = 4;
+for ii = 1:number_of_subjects
+    currentSubject = Subjects(ii);
+    for jj = 1:length(currentSubject.Sessions)
+        currentSession = currentSubject.Sessions(jj);
+        for kk = 1:length(currentSession.Trials)
+            currentTrial = currentSession.Trials(kk);
+            if currentTrial.flag
+                continue
+            end
+            number_of_sides = length(currentTrial.sides);
+            for ll = 1:number_of_sides
+                currentSide = currentTrial.sides(ll);
+                if number_of_sides == 2;
+                    header = generateHeader(currentSubject, currentSession, currentTrial, currentSide);
+                else
+                    header = generateHeader(currentSubject, currentSession, currentTrial, 'B');
+                end
+                rawData(1:length(header),columnCounter) = header;
+                rowCounter = length(header) + 2; % Starts two rows below the header
+                for mm = 1:number_of_variables
+                    B = Variables{mm};
+                    locations = strfind(variableSet,B);
+                    index = min(find(~cellfun(@isempty,locations)));
+                    for nn = 1:3
+                        if strcmp(variableNicknames{index,nn}, 'xx')
+                            continue
+                        end
+                        for oo = 1:101
+                            try
+                                rawData{rowCounter,columnCounter} = currentTrial.GaitCycle(oo,nn,mm);
+                            catch ME
+                                rawData{rowCounter,columnCounter} = 999;
+                                currentSession.flag = 1;
+                                currentSession.reasonForFlag = sprintf(['incomplete %s gait cycle ',...
+                                                            ' while writing to raw data'], currentSide);
+                            end
+                            rowCounter = rowCounter + 1;
+                        end
+                    end
+                end
+                columnCounter = columnCounter + 1;
+            end
+        end
+    end
+end
+%% Creates Variable Pull results sheet
+if variablePulling
+    rowCounter = 2;
+    for ii = 1:number_of_subjects
+        currentSubject = Subjects(ii);
+        for jj = 1:length(currentSubject.Sessions)
+            currentSession = currentSubject.Sessions(jj);
+            for kk = 1:length(currentSession.Trials)
+                currentTrial = currentSession.Trials(kk);
+                if currentTrial.flag
+                    continue
+                end
+                number_of_sides = length(currentTrial.sides);
+                for ll = 1:number_of_sides
+                    currentSide = currentTrial.sides(ll);
+                    if number_of_sides == 2;
+                        header = generateHeader(currentSubject, currentSession, currentTrial, currentSide);
+                    else
+                        header = generateHeader(currentSubject, currentSession, currentTrial, 'B');
+                    end
+                    outputVariablePull(rowCounter, 1:length(header)) = header;
+                    columnCounter = length(header) + 1;
+                    for mm = 1:number_of_measures
+                        outputVariablePull{rowCounter,columnCounter} = currentTrial.variablePullResults(1,mm,ll);
+                        columnCounter = columnCounter + 1;
+                        if currentTrial.variablePullTiming(mm) ~= 999
+                            outputVariablePull{rowCounter,columnCounter} = currentTrial.variablePullTiming(1,mm,ll);
+                            columnCounter = columnCounter + 1;
+                        end
+                    end
+                    rowCounter = rowCounter + 1;     
+                end
+            end
+        end
+    end
+end
+
+% Average Gait Data in the session by context
+if strcmp(variablePullAverageResponse, 'By Context') || strcmp(vectorCodeAverageResponse, 'By Context')
+    for ii = 1:number_of_subjects
+        currentSubject = Subjects(ii);
+        for jj = 1:length(currentSubject.Sessions)
+            currentSession = currentSubject.Sessions(jj);
+            for kk = 1:length(currentSession.Trials)
+                currentTrial = currentSession.Trials(kk);
+                if currentTrial.flag
+                    continue
+                end
+                number_of_sides = length(currentTrial.sides);
+                currentSession.aveCycleNorm = zeros(1,5,number_of_sides);
+                currentSession.aveGaitCycle = zeros(101,3,number_of_variables,number_of_sides);
+                for ll = 1:number_of_sides
+                    currentSide = currentTrial.sides(ll);
+                    currentSession.aveCycleNorm(:,:,ll) = currentSession.aveCycleNorm(:,:,ll) + currentTrial.CycleNorm(:,:,ll);
+                    currentSession.aveGaitCycle(:,:,:,ll) = currentSession.aveGaitCycle(:,:,:,ll) + currentTrial.GaitCycle(:,:,:,ll);
+                    currentSession.byContextCounter(ll) = currentSession.byContextCounter(ll) + 1;
+                end
+            end
+            if currentSession.byContextCounter(1) > 1
+                currentSession.aveCycleNorm(:,:,1) = currentSession.aveCycleNorm(:,:,1) / currentSession.byContextCounter(1);
+                currentSession.aveGaitCycle(:,:,:,1) = currentSession.aveGaitCycle(:,:,:,1) / currentSession.byContextCounter(1);
+            end
+            if currentSession.byContextCounter(2) > 1
+                currentSession.aveCycleNorm(:,:,2) = currentSession.aveCycleNorm(:,:,2) / currentSession.byContextCounter(2);
+                currentSession.aveGaitCycle(:,:,:,2) = currentSession.aveGaitCycle(:,:,:,2) / currentSession.byContextCounter(2);
+            end
+        end
+    end
+end
+
+% Average Gait Data in the session across sides
+if strcmp(variablePullAverageResponse, 'Across Sides') || strcmp(vectorCodeAverageResponse, 'Across Sides')
+    for ii = 1:number_of_subjects
+        currentSubject = Subjects(ii);
+        for jj = 1:length(currentSubject.Sessions)
+            currentSession = currentSubject.Sessions(jj);
+            for kk = 1:length(currentSession.Trials)
+                currentTrial = currentSession.Trials(kk);
+                if currentTrial.flag
+                    continue
+                end
+                number_of_sides = length(currentTrial.sides);
+                currentSession.aveCycleNorm = zeros(1,5,1);
+                currentSession.aveGaitCycle = zeros(101,3,number_of_variables, 1);
+                for ll = 1:number_of_sides
+                    currentSide = currentTrial.sides(ll);
+                    currentSession.aveCycleNorm(:,:,1) = currentSession.aveCycleNorm(:,:,1) + currentTrial.CycleNorm(:,:,ll);
+                    currentSession.aveGaitCycle(:,:,:,1) = currentSession.aveGaitCycle(:,:,:,1) + currentTrial.GaitCycle(:,:,:,ll);
+                    currentSession.acrossSidesCounter = currentSession.acrossSidesCounter + 1;
+                end
+            end
+            if currentSession.acrossSidesCounter > 1
+                currentSession.aveCycleNorm(:,:) = currentSession.aveCycleNorm(:,:) / currentSession.acrossSidesCounter;
+                currentSession.aveGaitCycle(:,:,:) = currentSession.aveGaitCycle(:,:,:) / currentSession.acrossSidesCounter;
+            end
+        end
+    end
+end
+
+%% Shapes averaged data into cell array for writing to excel
+if strcmp(variablePullAverageResponse, 'Across Sides') || strcmp(vectorCodeAverageResponse, 'Across Sides') || strcmp(variablePullAverageResponse, 'By Context') || strcmp(vectorCodeAverageResponse, 'By Context')
+    % Preallocate memory for ave raw data
+    aveRawData = cell([(number_of_variables*3*100 + 5) (3 + number_of_files + boths)]);
+    aveRawData(:,1) = rawData(:,1);
+    if strcmp(variablePullAverageResponse, 'By Context') || strcmp(vectorCodeAverageResponse, 'By Context')
+        %% Adds ave data to Ave Raw Data results sheet
+        columnCounter = 4;
+        for ii = 1:number_of_subjects
+            currentSubject = Subjects(ii);
+            for jj = 1:length(currentSubject.Sessions)
+                currentSession = currentSubject.Sessions(jj);
+                if currentSession.flag
+                    continue
+                end
+                number_of_sides = length(currentSession.sides);
+                for kk = 1:number_of_sides
+                    currentSide = currentSession.sides(kk);
+                    header = generateHeader(currentSubject, currentSession, currentSession.Trials(1), currentSide);
+                    header{1} = currentSession.name;
+                    aveRawData(1:length(header),columnCounter) = header;
+                    rowCounter = length(header) + 2; % Starts two rows below the header
+                    for mm = 1:number_of_variables
+                        B = Variables{mm};
+                        locations = strfind(variableSet,B);
+                        index = min(find(~cellfun(@isempty,locations)));
+                        for nn = 1:3
+                            if strcmp(variableNicknames{index,nn}, 'xx')
+                                continue
+                            end
+                            for oo = 1:101
+                                try
+                                    aveRawData{rowCounter,columnCounter} = currentSession.aveGaitCycle(oo,nn,mm,kk);
+                                catch ME
+                                    aveRawData{rowCounter,columnCounter} = 999;
+                                    currentSubject.flag = 1;
+                                    currentSubject.reasonForFlag = sprintf(['incomplete %s Data cycle ',...
+                                                                ' while writing to raw data'], currentSide);
+                                end
+                                rowCounter = rowCounter + 1;
+                            end
+                        end
+                    end
+                    columnCounter = columnCounter + 1;
+                end
+            end
+        end
+    end
+
+    if strcmp(variablePullAverageResponse, 'Across Sides') || strcmp(vectorCodeAverageResponse, 'Across Sides')
+        %% Adds ave data to Ave Raw Data results sheet
+        columnCounter = 4;
+        for ii = 1:number_of_subjects
+            currentSubject = Subjects(ii);
+            for jj = 1:length(currentSubject.Sessions)
+                currentSession = currentSubject.Sessions(jj);
+                if currentSession.flag
+                    continue
+                end
+                number_of_sides = length(currentSession.sides);
+                for ll = 1:number_of_sides
+                    currentSide = currentSession.sides(ll);
+                    if number_of_sides == 2;
+                        header = generateHeader(currentSubject, currentSession, currentSession.Trials(1), 'B');
+                    else
+                        header = generateHeader(currentSubject, currentSession, currentSession.Trials(1), currentSide);
+                    end
+                    header{1} = currentSession.name;
+                    aveRawData(1:length(header),columnCounter) = header;
+                    rowCounter = length(header) + 2; % Starts two rows below the header
+                    for mm = 1:number_of_variables
+                        B = Variables{mm};
+                        locations = strfind(variableSet,B);
+                        index = min(find(~cellfun(@isempty,locations)));
+                        for nn = 1:3
+                            if strcmp(variableNicknames{index,nn}, 'xx')
+                                continue
+                            end
+                            for oo = 1:101
+                                try
+                                    aveRawData{rowCounter,columnCounter} = currentSession.aveGaitCycle(oo,nn,mm);
+                                catch ME
+                                    aveRawData{rowCounter,columnCounter} = 999;
+                                    currentSubject.flag = 1;
+                                    currentSubject.reasonForFlag = sprintf(['incomplete %s Data cycle ',...
+                                                                ' while writing to raw data'], currentSide);
+                                end
+                                rowCounter = rowCounter + 1;
+                            end
+                        end
+                    end
+                    columnCounter = columnCounter + 1;
+                end
+            end
+        end
+    end
+
+end
+    if strcmp(variablePullAverageResponse, 'Across Sides')
+        fprintf('Running average variable pull across sides...\n')
+        for ii = 1:number_of_subjects
+            currentSubject = Subjects(ii);
+            for jj = 1:length(currentSubject.Sessions)
+                currentSession = currentSubject.Sessions(jj);
+                if currentSession.flag
+                    continue
+                end
+                currentSession.averageVariablePullResults = zeros(1,number_of_measures,1);
+                currentSession.averageVariablePullTiming = zeros(1,number_of_measures,1);
+                for kk = 1:number_of_measures
+                    %VariablePullOutputColumnCounter = length(header) + 2;
+                    currentVariable = txtMeasures(kk,1);
+                    currentPlane = txtMeasures(kk,2);
+                    event1 = txtMeasures(kk,3);
+                    event2 = txtMeasures(kk,4);
+                    currentFeature = txtMeasures(kk,5);
+                    currentLabel = txtMeasures(kk,6);
+                    gettingTime = txtMeasures(kk,7);
+                    DataCycle = currentSession.aveGaitCycle(:,:,:,1);
+                    CycleNorm = currentSession.aveCycleNorm(:,:,1);
+                    [currentResult,currentTiming] = variablePull(currentVariable, currentPlane, event1, event2, ...
+                                                    currentFeature, currentLabel, gettingTime, DataCycle, CycleNorm);
+                    currentSession.averageVariablePullResults(1,kk,1) = currentResult;
+                    currentSession.averageVariablePullTiming(1,kk,1) = currentTiming;
+                end
+            end
+        end
+    end  
+Running average variable pull across sides...
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('variablePull', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\variablePull.m', 80)" style="font-weight:bold">variablePull</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\variablePull.m',80,0)">line 80</a>)
+                        size(DataCycle,2), size(DataCycle,3), CycleNorm(min(strmatch(event1,eventsMap))) + 1, ...
+} 
+currentSubject
+
+currentSubject = 
+
+  <a href="matlab:helpPopup Subject" style="font-weight:bold">Subject</a> with properties:
+
+               ID: 'H0602'
+           number: 1
+        last_name: 'Castillo'
+       first_name: 'Janelle'
+         Sessions: [1x1 Session]
+    affected_side: 'Dynamic'
+             flag: 1
+    reasonForFlag: 'incomplete R Data cycle  while writing to raw data'
+
+currentSession
+
+currentSession = 
+
+  <a href="matlab:helpPopup Session" style="font-weight:bold">Session</a> with properties:
+
+                          name: 'JC99'
+                        Folder: 'J:\Norm\N\H0602\JC99\'
+                        Trials: [2x1 Trial]
+                         sides: 'LR'
+              byContextCounter: [0 0]
+            acrossSidesCounter: 0
+                  aveCycleNorm: []
+                  aveDataArray: []
+                  aveGaitCycle: []
+                          flag: 0
+                 reasonForFlag: []
+    averageVariablePullResults: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+     averageVariablePullTiming: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+      averageVectorCodeResults: []
+
+helpPopup Session
+helpPopup Session
+test = ['L']
+
+test =
+
+L
+
+test = [test;,
+test = [test, 'R']
+ test = [test, 'R']
+      
+{Error: The expression to the left of the equals sign is not a valid target for an assignment.
+} 
+test = ['L']
+
+test =
+
+L
+
+test = [test, 'R']
+
+test =
+
+LR
+
+test = ['L']
+
+test =
+
+L
+
+test = [test; 'R']
+
+test =
+
+L
+R
+
+length(currentSession.sides)
+
+ans =
+
+     2
+
+currentSession.sides(1)
+
+ans =
+
+L
+
+currentSession.sides(2)
+
+ans =
+
+R
+
+clear
+clc
+main
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: AF1105_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(1/12)J:\Norm\N\H0326\AF11\AF1105.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0326 AF1105 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: AF1108_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(2/12)J:\Norm\N\H0326\AF11\AF1108.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0326 AF1108 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AL0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(3/12)J:\Norm\N\H0435\AL09\AL0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0435 AL0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: AL0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(4/12)J:\Norm\N\H0435\AL09\AL0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0435 AL0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(5/12)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0458 AH0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: AH0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(6/12)J:\Norm\N\H0458\AH09\AH0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0458 AH0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JP1107_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(7/12)J:\Norm\N\H0460\JP11\JP1107.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0460 JP1107 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: JP1110_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(8/12)J:\Norm\N\H0460\JP11\JP1110.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0460 JP1110 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: JS0908_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(9/12)J:\Norm\N\H0476\JS09\JS0908.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0476 JS0908 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: JS0910_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(10/12)J:\Norm\N\H0476\JS09\JS0910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0476 JS0910 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+New Subject Created.
+[Warning: tb0913_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(11/12)J:\Norm\N\H0589\tb09\tb0913.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0589 tb0913 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+
+
+[Warning: tb0911_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\appendToFileName.m',11,0)">line 11</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m', 603)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\main.m',603,0)">line 603</a>)] 
+(12/12)J:\Norm\N\H0589\tb09\tb0911.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved H0589 tb0911 - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+number_of_subjects =
+
+     6
+
+running vector code average by context
+Data added to 'Variable Pull' sheet in results.xls
+Data added to 'Raw Data' sheet in results.xls
+Data added to 'Vector Code' sheet in results.xls
+Data added to 'Avg Vector Code' sheet in results.xls
+Data added to 'Ave Raw Data' sheet in results.xls

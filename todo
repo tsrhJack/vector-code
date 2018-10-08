@@ -1,0 +1,1 @@
+change the way parses through filelist. If subject doesn't exist, add new subject. If subject does exist, add new trial
