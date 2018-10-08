@@ -9,7 +9,9 @@
 % based on the structure of a variable list excel file. See the example file list and variable list
 % or the constants in this file for formatting your excel files.
 % 
-% 
+%
+% Will be used to compare to the variable pull code
+
 clear
 clc
 warning('off', 'MATLAB:nargchk:deprecated')
