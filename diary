@@ -2066,3 +2066,86 @@ Data added to 'Raw Data' sheet in results.xls
 Data added to 'Vector Code' sheet in results.xls
 Data added to 'Avg Vector Code' sheet in results.xls
 Data added to 'Ave Raw Data' sheet in results.xls
+Loading file list...
+Loading variable list...
+{Undefined function or variable 'k'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 199)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',199,0)">line 199</a>)
+        VariablePullOutputColumnNames(1,end+1) = txtMeasures(k,6); %#ok<SAGROW>
+} 
+clc
+clear
+main
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 490)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',490,0)">line 490</a>)
+        if ischar(Subjects(1).ID)
+} 
+main
+No file selected.
+clc
+clear
+main
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+Current file is DR9912.c3d, and DR9912_fa.c3d exists, so using that file instead.
+(1/40)J:\Norm\N\H0603\DR99\DR9912.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was requested
+by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 692)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',692,0)">line 692</a>)] 
+
+
+
+Current file is DR9910.c3d, and DR9910_fa.c3d exists, so using that file instead.
+(2/40)J:\Norm\N\H0603\DR99\DR9910.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+[Warning: xDataCycle ForeGlob column consists only of NaNs. It is possible the model outputs are incomplete.This side was requested
+by the file list, so the file is being skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 692)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',692,0)">line 692</a>)] 
+
+
+
+New Subject Created.
+Current file is AF1105.c3d, and AF1105_fa.c3d exists, so using that file instead.
+(3/40)J:\Norm\N\H0326\AF11\AF1105.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 715)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',715,0)">line 715</a>)
+
+} 
+clc
+clear
+main

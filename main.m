@@ -196,9 +196,9 @@ if any(strcmp(variableListSheets,'Measures'))
     % Instantiates variable pull output cell array (now that we know the size of the file list 
     % and variable list) and creates the header
     for kk = 1:number_of_measures
-        VariablePullOutputColumnNames(1,end+1) = txtMeasures(k,6); %#ok<SAGROW>
-        if strcmp(txtMeasures(k,7), 'Yes')
-                VariablePullOutputColumnNames(1,end+1) = strcat('time', txtMeasures(k,6)); %#ok<SAGROW>
+        VariablePullOutputColumnNames(1,end+1) = txtMeasures(kk,6); %#ok<SAGROW>
+        if strcmp(txtMeasures(kk,7), 'Yes')
+                VariablePullOutputColumnNames(1,end+1) = strcat('time', txtMeasures(kk,6)); %#ok<SAGROW>
         end
     end
     outputVariablePull = cell([number_of_files+1, length(VariablePullOutputColumnNames)]);
@@ -599,11 +599,12 @@ for ii = 1:number_of_files
             switch appendPrompt
                 case 'Custom'
                     suffix = input('Try to append this to file names: ', 's');
-                    appendToFileName(currentTrial, suffix)
+                    appendToFileName(currentSession, currentTrial, suffix)
                 case '_fa' 
                     suffix = '_fa';
-                    appendToFileName(currentTrial, suffix)
+                    appendToFileName(currentSession, currentTrial, suffix)
             end
+            currentFilePath = strcat(currentSession.Folder, currentTrial.fileName);
         end
     end
 

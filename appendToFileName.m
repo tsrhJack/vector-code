@@ -1,6 +1,6 @@
-function appendToFileName(trial, suffix)
+function appendToFileName(session, trial, suffix)
     if isempty(strfind(trial.fileName, suffix))
-        if exist(strcat(trial.fileName(1:end-4), suffix, '.c3d'), 'file') == 2
+        if exist(strcat(session.Folder, trial.fileName(1:end-4), suffix, '.c3d'), 'file') == 2
             msg = sprintf(['Current file is %s, and %s exists, so using that file instead.'], ...
                             trial.fileName, strcat(trial.fileName(1:end-4), suffix, '.c3d'));
             trial.fileName = strcat(trial.fileName(1:end-4), suffix, '.c3d');
