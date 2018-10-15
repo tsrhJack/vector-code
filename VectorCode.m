@@ -115,7 +115,7 @@ function [mainFigure, figureName, bincounts] = VectorCode(jointOrSegment1, plane
     binCMin1 = 67.5;     binCMax1 = 90;         binCMin2 = 247.5;      binCMax2 = 270;
     binDMin1 = 90;       binDMax1 = 112.5;      binDMin2 = 270;        binDMax2 = 292.5;
     binEMin1 = 112.5;    binEMax1 = 157.5;      binEMin2 = 292.5;      binEMax2 = 337.5;
-    %binFMin1 = 157.5;   binFMax1 = 180;        binFMin2 = 337.5;      binFMax2 = 360;      (Handled by else case)
+    binFMin1 = 157.5;   binFMax1 = 180;        binFMin2 = 337.5;      binFMax2 = 360;
 
     % Instantiates arrays to preallocate memory (runs more efficiently)
     % These arrays keep track of what bin each couple fell into at each
@@ -147,7 +147,7 @@ function [mainFigure, figureName, bincounts] = VectorCode(jointOrSegment1, plane
 
     theta = theta + (theta < 0)*360;
     thetaLength = length(theta);
-    t = 1:(arrayLength);    %  Array used for plotting
+    t = 0:(arrayLength-1);    %  Array used for plotting. 
 
     % Instantiates arrays to preallocate memory (runs more efficiently)
     % These arrays keep track of what bin each couple fell into at each
@@ -165,7 +165,7 @@ function [mainFigure, figureName, bincounts] = VectorCode(jointOrSegment1, plane
     for k=1:(thetaLength)
 
             % Proximal-Dominant In-Phase
-            if (theta(k) > binAMin1 && theta(k) < binAMax1 || theta(k) > binAMin2 && theta(k) < binAMax2)
+            if (theta(k) >= binAMin1 && theta(k) <= binAMax1 || theta(k) >= binAMin2 && theta(k) <= binAMax2)
 
                 phase(k) = 1;
                 proximalDominantInPhase(k) = 1;
@@ -190,19 +190,26 @@ function [mainFigure, figureName, bincounts] = VectorCode(jointOrSegment1, plane
                 distalDominantAntiPhase(k) = 1;
 
             % Anti-Phase
-            elseif (theta(k) > binEMin1 && theta(k) < binEMax1 || theta(k) > binEMin2 && theta(k) < binEMax2)
+            elseif (theta(k) >= binEMin1 && theta(k) <= binEMax1 || theta(k) >= binEMin2 && theta(k) <= binEMax2)
 
                 phase(k) = 5;
                 antiPhase(k) = 1;
 
             % Proximal-Dominant Anti-Phase
-            else % the case that theta(k) > 167.5 && theta(k) < 180 || theta(k) > 337.5 && theta(k) < 360
+            elseif theta(k) > binFMin1 && theta(k) < binFMax1 || theta(k) > binFMin2 && theta(k) < binFMax2
 
                 phase(k) = 6;
                 proximalDominantAntiPhase(k) = 1;
 
-            end
+            elseif theta(k) == 0 || theta(k) == 180
+                proximalDominantInPhase(k) = 1;
+                phase(k) = 1;
 
+            elseif theta(k) == 90 || theta(k) == 270
+                distalDominantAntiPhase(k) = 1;
+                phase(k) = 4;
+                
+            end 
     end
 
     %% Colors for each section
@@ -236,45 +243,48 @@ function [mainFigure, figureName, bincounts] = VectorCode(jointOrSegment1, plane
     title(primary_title, 'FontWeight', 'Bold');
     xlabel('% of Activity');
     ylabel('Angle (Degrees)');
-    xlim([1 arrayLength]);
+    xlim([1 100]);
     y_limit_bottom = min(min(array1,array2)) - 10;
     y_limit_top = max(max(array1,array2))*1.25;
     ylim([y_limit_bottom y_limit_top]);
     legend('show')
 
     %% Creates the color bar under the x-axis
-    changeLocations = zeros(99,1);
+    changeLocations = zeros(100,1);
     for i = 2:thetaLength
 
         if phase(i) ~= phase(i-1)
 
-            changeLocations(i-1) = i;
+            changeLocations(i-1) = i-1; % We subtract 1 because the phase vector is from 1:101, but the t vector is from 0:100 
 
         end
 
     end
     changeLocations = changeLocations(changeLocations ~= 0);
 
-    for ii = 1:length(changeLocations)
+    X = [0 0 changeLocations(1) changeLocations(1)];
+    Y = [yMin-1 y_limit_bottom y_limit_bottom yMin-1];
+    switch phase(1)
+        case 1   
+            patch(X,Y,colors{1})
+        case 2
+            patch(X,Y,colors{2})
+        case 3
+            patch(X,Y,colors{3})
+        case 4
+            patch(X,Y,colors{4})
+        case 5
+            patch(X,Y,colors{5})
+        case 6
+            patch(X,Y,colors{6})
+        otherwise
+            error('phase vector at %d is %d and should be in the range 1-6!', 1, phase(1))
+    end
 
-        if ii == 1
-
-            X = [0 0 changeLocations(ii) changeLocations(ii)];
-            Y = [yMin-1 y_limit_bottom y_limit_bottom yMin-1];
-
-        elseif changeLocations(ii) == 0
-            
-            X = [arrayLength arrayLength changeLocations(ii-1) changeLocations(ii-1)];
-            Y = [yMin-1 y_limit_bottom y_limit_bottom yMin-1];
-
-        else
-            
-            X = [changeLocations(ii) changeLocations(ii) changeLocations(ii-1) changeLocations(ii-1)];
-            Y = [yMin-1 y_limit_bottom y_limit_bottom yMin-1];
-
-        end
-
-        switch phase(changeLocations(ii))
+    for ii = 1:length(changeLocations)-1
+        X = [changeLocations(ii) changeLocations(ii) changeLocations(ii+1) changeLocations(ii+1)];
+        Y = [yMin-1 y_limit_bottom y_limit_bottom yMin-1];
+        switch phase(changeLocations(ii+1))
             case 1   
                 patch(X,Y,colors{1})
             case 2
@@ -291,6 +301,24 @@ function [mainFigure, figureName, bincounts] = VectorCode(jointOrSegment1, plane
                 error('phase vector at %d is %d and should be in the range 1-6!', ii, phase(ii))
         end
     end
+
+    X = [changeLocations(end) changeLocations(end) 100 100];
+    Y = [yMin-1 y_limit_bottom y_limit_bottom yMin-1];
+    switch phase(end)
+        case 1   
+            patch(X,Y,colors{1})
+        case 2
+            patch(X,Y,colors{2})
+        case 3
+            patch(X,Y,colors{3})
+        case 4
+            patch(X,Y,colors{4})
+        case 5
+            patch(X,Y,colors{5})
+        case 6
+            patch(X,Y,colors{6})
+    end
+       
     hold off;
 
     %% Adds angle data to plot

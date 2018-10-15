@@ -318,7 +318,7 @@ else
 end 
 
 if variablePulling
-    msg = ['Would you like to average the variable pull results?'];
+    msg = 'Would you like to average the variable pull results?';
     variablePullAverageResponse = questdlg(msg, ...
                 'Variable Pull Average Prompt', ...
                 'No', 'By Context', 'Across Sides', 'No');
@@ -326,7 +326,7 @@ if variablePulling
 end
 
 if vectorCoding
-    msg = ['Would you like to average the vector code results?'];
+    msg = 'Would you like to average the vector code results?';
     vectorCodeAverageResponse = questdlg(msg, ...
                 'Vector Code Average Prompt', ...
                 'No', 'By Context', 'Across Sides', 'No');
@@ -466,7 +466,7 @@ for ii = 1:number_of_files
         currentSubject = Subject;
         Subjects = [Subjects; currentSubject];
         currentSubject.ID = currentID{1};
-        currentSubject.number = numFile(ii,1);
+        %currentSubject.number = numFile(ii,1);
         currentSubject.last_name = txtFile{ii,inputLastNameColumn};
         currentSubject.first_name = txtFile{ii,inputFirstNameColumn};
         currentSubject.affected_side = txtFile{ii,inputAffectedSideColumn};
@@ -487,35 +487,24 @@ for ii = 1:number_of_files
             continue
         end
     else
-        if ischar(Subjects(1).ID)
-            I = strfind([Subjects.ID], currentID);
-        else
-            I = find(Subjects.ID == currentID);
-        end
-        
-        if isempty(I)
+            
+        currentSubject = findobj(Subjects,'ID',char(currentID));
+
+        if isempty(currentSubject)
             currentSubject = Subject;
-            disp('New Subject Created.')
             Subjects = [Subjects; currentSubject];
             currentSubject.ID = currentID{1};
-            currentSubject.number = numFile(ii,1);
+            %currentSubject.number = numFile(ii,1);
             currentSubject.last_name = txtFile{ii,inputLastNameColumn};
             currentSubject.first_name = txtFile{ii,inputFirstNameColumn};
             currentSubject.affected_side = txtFile{ii,inputAffectedSideColumn};
+            fprintf('New Subject Created: Subject %s \n', currentSubject.ID)
             currentSubject.validateProperties()
             if currentSubject.flag == 1
                 warning(currentSubject.reasonForFlag)
                 addToProblemFiles(currentFilePath, currentSubject)
                 continue
             end
-        else
-            if ischar(Subjects(1).ID)
-                I = (I - 1 ) / 5 + 1;
-                currentSubject = Subjects(I);
-            else
-                currentSubject = Subjects(I);
-            end
-            
         end
 
         I = find(currentSubject.Sessions == currentSession);
@@ -609,7 +598,13 @@ for ii = 1:number_of_files
     end
 
     fprintf('(%d/%d)', ii, number_of_files)
-    openc3d(C3DCom,1,currentFilePath);
+    try
+        openc3d(C3DCom,1,currentFilePath);
+    catch ME
+        currentTrial.reasonForFlag = ME.message;
+        warning(ME.message)
+        continue
+    end
     %% Import C3D data
     fprintf('Importing data...\n')
     frames = nframes(C3DCom);
