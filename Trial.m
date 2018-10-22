@@ -159,7 +159,7 @@ classdef Trial < handle
             %% Calculate #cycles for normalization Schemes that begin and end with FS ...
             % with 5 events.
 
-            if Normalization == 1 || Normalization ==2 
+            if Normalization == 1 || Normalization == 2 
                 
                 if trial.LFootStrikeEvents > 1 % determines the number of cycles
                     trial.LNumCycles = length(trial.LFootStrikeEvents)-1;

@@ -252,15 +252,11 @@ function [mainFigure, figureName, bincounts] = VectorCode(jointOrSegment1, plane
     %% Creates the color bar under the x-axis
     changeLocations = zeros(100,1);
     for i = 2:thetaLength
-
         if phase(i) ~= phase(i-1)
-
             changeLocations(i-1) = i-1; % We subtract 1 because the phase vector is from 1:101, but the t vector is from 0:100 
-
         end
-
     end
-    changeLocations = changeLocations(changeLocations ~= 0);
+    changeLocations = changeLocations(changeLocations ~= 0)
 
     X = [0 0 changeLocations(1) changeLocations(1)];
     Y = [yMin-1 y_limit_bottom y_limit_bottom yMin-1];

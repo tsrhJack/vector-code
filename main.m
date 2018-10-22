@@ -601,6 +601,7 @@ for ii = 1:number_of_files
     try
         openc3d(C3DCom,1,currentFilePath);
     catch ME
+        currentTrial.flag = 1;
         currentTrial.reasonForFlag = ME.message;
         warning(ME.message)
         continue
@@ -933,24 +934,20 @@ if strcmp(variablePullAverageResponse, 'By Context') || strcmp(vectorCodeAverage
         currentSubject = Subjects(ii);
         for jj = 1:length(currentSubject.Sessions)
             currentSession = currentSubject.Sessions(jj);
+            number_of_session_sides = length(currentSession.sides);
+            currentSession.aveCycleNorm = zeros(1,5,number_of_session_sides);
+            currentSession.aveGaitCycle = zeros(101,3,number_of_variables,number_of_session_sides);
             for kk = 1:length(currentSession.Trials)
                 currentTrial = currentSession.Trials(kk);
+                number_of_trial_sides = length(currentTrial.sides);
                 if currentTrial.flag
                     continue
                 end
-                number_of_sides = length(currentTrial.sides);
-                currentSession.aveCycleNorm = zeros(1,5,number_of_sides);
-                currentSession.aveGaitCycle = zeros(101,3,number_of_variables,length(currentSession.sides));
-                for ll = 1:number_of_sides
-                    if strcmp(currentTrial.sides(ll),'L') 
-                        currentSession.aveCycleNorm(:,:,1) = currentSession.aveCycleNorm(:,:,1) + currentTrial.CycleNorm(:,:,ll);
-                        currentSession.aveGaitCycle(:,:,:,1) = currentSession.aveGaitCycle(:,:,:,1) + currentTrial.GaitCycle(:,:,:,ll);
-                        currentSession.byContextCounter(1) = currentSession.byContextCounter(1) + 1;
-                    else
-                        currentSession.aveCycleNorm(:,:,2) = currentSession.aveCycleNorm(:,:,2) + currentTrial.CycleNorm(:,:,ll);
-                        currentSession.aveGaitCycle(:,:,:,2) = currentSession.aveGaitCycle(:,:,:,2) + currentTrial.GaitCycle(:,:,:,ll);
-                        currentSession.byContextCounter(2) = currentSession.byContextCounter(2) + 1;
-                    end
+
+                for ll = 1:number_of_trial_sides
+                    currentSession.aveCycleNorm(:,:,strmatch(currentTrial.sides(ll),currentSession.sides)) = currentSession.aveCycleNorm(:,:,strmatch(currentTrial.sides(ll),currentSession.sides)) + currentTrial.CycleNorm(:,:,ll);
+                    currentSession.aveGaitCycle(:,:,:,strmatch(currentTrial.sides(ll),currentSession.sides)) = currentSession.aveGaitCycle(:,:,:,strmatch(currentTrial.sides(ll),currentSession.sides)) + currentTrial.GaitCycle(:,:,:,ll);
+                    currentSession.byContextCounter(strmatch(currentTrial.sides(ll),currentSession.sides)) = currentSession.byContextCounter(strmatch(currentTrial.sides(ll),currentSession.sides)) + 1;
                 end
             end
             if currentSession.byContextCounter(1) > 1

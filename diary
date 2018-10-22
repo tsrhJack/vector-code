@@ -13506,4 +13506,1285 @@ Saved 134584 HL1103_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
 
 New Subject Created: Subject 134824 
 [Warning: number is empty] 
-[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)] 
+(70/234)
+
+
+New Subject Created: Subject 135307 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)] 
+[Warning: KB1113_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\appendToFileName.m',11,0)">line 11</a>)] 
+(71/234)
+
+
+[Warning: KB1111_fa.c3d does not exist. File will be skipped if model outputs are incomplete.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('appendToFileName', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\appendToFileName.m', 11)" style="font-weight:bold">appendToFileName</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\appendToFileName.m',11,0)">line 11</a>)] 
+(72/234)
+
+
+New Subject Created: Subject 135484 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)] 
+Current file is GW1208.c3d, and GW1208_fa.c3d exists, so using that file instead.
+(73/234)J:\P100_149\PD\135484\GW12\GW1208_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 135484 GW1208_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 135484 GW1208_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 135484 GW1208_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 135484 GW1208_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 135484 GW1208_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 135484 GW1208_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 135484 GW1208_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 135484 GW1208_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 135484 GW1208_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 135484 GW1208_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 135484 GW1208_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+Current file is GW1212.c3d, and GW1212_fa.c3d exists, so using that file instead.
+(74/234)J:\P100_149\PD\135484\GW12\GW1212_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 135484 GW1212_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 135484 GW1212_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 135484 GW1212_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 135484 GW1212_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 135484 GW1212_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 135484 GW1212_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 135484 GW1212_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 135484 GW1212_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 135484 GW1212_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 135484 GW1212_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 135484 GW1212_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created: Subject 135896 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)] 
+(75/234)J:\P100_149\PD\135896\SA11\SA1107_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 135896 SA1107_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 135896 SA1107_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 135896 SA1107_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 135896 SA1107_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 135896 SA1107_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 135896 SA1107_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 135896 SA1107_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 135896 SA1107_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 135896 SA1107_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 135896 SA1107_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 135896 SA1107_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created: Subject 135937 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)] 
+Current file is IV1111.c3d, and IV1111_fa.c3d exists, so using that file instead.
+(76/234)J:\P100_149\PD\135937\IV11\IV1111_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 135937 IV1111_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 135937 IV1111_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 135937 IV1111_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 135937 IV1111_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 135937 IV1111_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 135937 IV1111_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 135937 IV1111_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 135937 IV1111_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 135937 IV1111_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 135937 IV1111_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 135937 IV1111_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created: Subject 136348 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)] 
+(77/234)
+
+
+New Subject Created: Subject 136503 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)] 
+Current file is LP1109.c3d, and LP1109_fa.c3d exists, so using that file instead.
+(78/234)J:\P100_149\PD\136503\LP11\LP1109_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 136503 LP1109_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 136503 LP1109_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 136503 LP1109_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 136503 LP1109_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 136503 LP1109_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 136503 LP1109_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 136503 LP1109_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 136503 LP1109_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 136503 LP1109_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 136503 LP1109_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 136503 LP1109_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+Current file is LP1104.c3d, and LP1104_fa.c3d exists, so using that file instead.
+(79/234)J:\P100_149\PD\136503\LP11\LP1104_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 136503 LP1104_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 136503 LP1104_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 136503 LP1104_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 136503 LP1104_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 136503 LP1104_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 136503 LP1104_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 136503 LP1104_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 136503 LP1104_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 136503 LP1104_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 136503 LP1104_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 136503 LP1104_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created: Subject 136532 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)] 
+(80/234)J:\P100_149\PD\136532\PB12\PB1212_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 136532 PB1212_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 136532 PB1212_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 136532 PB1212_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 136532 PB1212_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 136532 PB1212_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 136532 PB1212_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 136532 PB1212_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 136532 PB1212_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 136532 PB1212_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 136532 PB1212_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 136532 PB1212_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+(81/234)J:\P100_149\PD\136532\PB12\PB1212R_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 136532 PB1212R_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 136532 PB1212R_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 136532 PB1212R_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 136532 PB1212R_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 136532 PB1212R_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 136532 PB1212R_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 136532 PB1212R_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 136532 PB1212R_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 136532 PB1212R_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 136532 PB1212R_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 136532 PB1212R_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created: Subject 137181 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)] 
+Current file is PO1106.c3d, and PO1106_fa.c3d exists, so using that file instead.
+(82/234)J:\P100_149\PD\137181\PO11\PO1106_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 137181 PO1106_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 137181 PO1106_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 137181 PO1106_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 137181 PO1106_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 137181 PO1106_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+Current file is PO1106.c3d, and PO1106_fa.c3d exists, so using that file instead.
+(83/234)J:\P100_149\PD\137181\PO11\PO1106_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 137181 PO1106_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 137181 PO1106_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 137181 PO1106_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 137181 PO1106_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 137181 PO1106_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 137181 PO1106_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created: Subject 137354 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)] 
+Current file is AM1114.c3d, and AM1114_fa.c3d exists, so using that file instead.
+(84/234)J:\P100_149\PD\137354\AM11\AM1114_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 137354 AM1114_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 137354 AM1114_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 137354 AM1114_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 137354 AM1114_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 137354 AM1114_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 137354 AM1114_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 137354 AM1114_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+java.lang.OutOfMemoryError: Java heap space
+	at java.awt.image.DataBufferInt.<init>(Unknown Source)
+	at java.awt.image.Raster.createPackedRaster(Unknown Source)
+	at java.awt.image.DirectColorModel.createCompatibleWritableRaster(Unknown Source)
+	at java.awt.image.BufferedImage.<init>(Unknown Source)
+	at sun.java2d.pipe.DrawImage.renderImageXform(Unknown Source)
+	at sun.java2d.pipe.DrawImage.transformImage(Unknown Source)
+	at sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+	at sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+	at sun.java2d.pipe.ValidatePipe.copyImage(Unknown Source)
+	at sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+	at sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+	at com.mathworks.hg.print.Graphics2DDecorator.drawImage(Graphics2DDecorator.java:700)
+	at jogamp.opengl.awt.AWTTilePainter$2.display(AWTTilePainter.java:380)
+	at com.jogamp.opengl.util.TileRendererBase$1.display(TileRendererBase.java:658)
+	at jogamp.opengl.GLDrawableHelper.displayImpl(GLDrawableHelper.java:691)
+	at jogamp.opengl.GLDrawableHelper.display(GLDrawableHelper.java:673)
+	at com.jogamp.opengl.awt.GLJPanel$Updater.plainPaint(GLJPanel.java:1450)
+	at com.jogamp.opengl.awt.GLJPanel$11.run(GLJPanel.java:1527)
+	at jogamp.opengl.GLDrawableHelper.invokeGLImpl(GLDrawableHelper.java:1277)
+	at jogamp.opengl.GLDrawableHelper.invokeGL(GLDrawableHelper.java:1131)
+	at com.jogamp.opengl.awt.GLJPanel$OffscreenBackend.doPlainPaint(GLJPanel.java:2110)
+	at com.jogamp.opengl.awt.GLJPanel.print(GLJPanel.java:919)
+	at com.mathworks.hg.peer.JavaSceneServerGLJPanel.print(JavaSceneServerGLJPanel.java:95)
+	at javax.swing.JComponent.printAll(Unknown Source)
+	at com.mathworks.hg.peer.HeavyweightLightweightContainerFactory$FigurePanelContainerPrinter.printFigurePanel(HeavyweightLightweightContainerFactory.java:635)
+	at com.mathworks.hg.peer.HeavyweightLightweightContainerFactory$FigurePanelContainerLight.printFigurePanel(HeavyweightLightweightContainerFactory.java:464)
+	at com.mathworks.hg.util.HGRasterOutputHelper$1.run(HGRasterOutputHelper.java:149)
+	at com.mathworks.jmi.AWTUtilities$Invoker$5$1.run(AWTUtilities.java:591)
+	at com.mathworks.mvm.context.ThreadContext$1.call(ThreadContext.java:76)
+	at com.mathworks.mvm.context.ThreadContext.callWithContext(ThreadContext.java:105)
+	at com.mathworks.mvm.context.ThreadContext.runWithContext(ThreadContext.java:73)
+	at com.mathworks.mvm.context.MvmContext.runWithContext(MvmContext.java:107)
+!!!!!!!!
+java.lang.Exception: Stack trace
+	at java.lang.Thread.dumpStack(Unknown Source)
+	at com.mathworks.hg.util.OutputHelperProcessingException.<init>(OutputHelperProcessingException.java:17)
+	at com.mathworks.hg.util.HGRasterOutputHelper.generateOutput(HGRasterOutputHelper.java:168)
+!!!!!!!!
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\graphics\print.m', 102)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\graphics\print.m',102,0)">line 102</a>)
+Cannot create output using the specified resolution. Try a lower resolution or a smaller output size.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('saveas', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\saveas.m', 168)" style="font-weight:bold">saveas</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\saveas.m',168,0)">line 168</a>)
+        print( h, name, ['-d' dev{i}] )
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('saveFigure', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\saveFigure.m', 10)" style="font-weight:bold">saveFigure</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\saveFigure.m',10,0)">line 10</a>)
+        saveas(mainFigure, fullfile(customSavePath,figureName), 'jpg')
+} 
+for ii = 84:number_of_files
+    fprintf('\n\n\n')
+    multiWaitbar('Processing File List', ii/number_of_files);
+    currentFilePath = txtFile{ii,inputFilePathColumn};
+    [currentSessionName, currentFolder, currentFileName, currentID] = parseFilePath(currentFilePath);
+    
+    if ii == 1
+        currentSubject = Subject;
+        Subjects = [Subjects; currentSubject];
+        currentSubject.ID = currentID{1};
+        %currentSubject.number = numFile(ii,1);
+        currentSubject.last_name = txtFile{ii,inputLastNameColumn};
+        currentSubject.first_name = txtFile{ii,inputFirstNameColumn};
+        currentSubject.affected_side = txtFile{ii,inputAffectedSideColumn};
+        currentSubject.validateProperties()
+        if currentSubject.flag == 1
+            warning(currentSubject.reasonForFlag)
+            addToProblemFiles(currentFilePath, currentSubject)
+            continue
+        end
+        currentSession = Session;
+        currentSubject.Sessions = [currentSubject.Sessions; currentSession];
+        currentSession.name = currentSessionName;
+        currentSession.Folder = currentFolder;
+        currentSession.validateProperties(txtFile{ii,inputSessionColumn})
+        if currentSession.flag == 1
+            warning(currentSession.reasonForFlag)
+            addToProblemFiles(currentFilePath, currentSession)
+            continue
+        end
+    else
+            
+        currentSubject = findobj(Subjects,'ID',char(currentID));
+
+        if isempty(currentSubject)
+            currentSubject = Subject;
+            Subjects = [Subjects; currentSubject];
+            currentSubject.ID = currentID{1};
+            %currentSubject.number = numFile(ii,1);
+            currentSubject.last_name = txtFile{ii,inputLastNameColumn};
+            currentSubject.first_name = txtFile{ii,inputFirstNameColumn};
+            currentSubject.affected_side = txtFile{ii,inputAffectedSideColumn};
+            fprintf('New Subject Created: Subject %s \n', currentSubject.ID)
+            currentSubject.validateProperties()
+            if currentSubject.flag == 1
+                warning(currentSubject.reasonForFlag)
+                addToProblemFiles(currentFilePath, currentSubject)
+                continue
+            end
+        end
+
+        I = find(currentSubject.Sessions == currentSession);
+        if isempty(I)
+            currentSession = Session;
+            currentSubject.Sessions = [currentSubject.Sessions; currentSession];
+            currentSession.name = currentSessionName;
+            currentSession.Folder = currentFolder;
+            currentSession.validateProperties(txtFile{ii,inputSessionColumn})
+            if currentSession.flag == 1
+                warning(currentSession.reasonForFlag)
+                addToProblemFiles(currentFilePath, currentSession)
+                continue
+            end
+        else
+            currentSession = currentSubject.Sessions(I);
+        end
+    end
+
+    % This assumes a new line in the file list is ALWAYS a trial that hasn't been processed before
+    currentTrial = Trial;
+    currentSession.Trials = [currentSession.Trials; currentTrial];
+    currentTrial.fileName = currentFileName;
+    currentTrial.trial_type = txtFile{ii,inputTrialType};
+    currentTrial.cycle_info = txtFile{ii,inputCycleInfoColumn};
+    if strcmp(txtFile{ii, inputSideColumn},'B') || strcmp(txtFile{ii, inputSideColumn},'Both')
+        currentTrial.sides = ['L','R'];
+        currentSession.sides = ['L', 'R'];
+    else
+        if strcmp(txtFile{ii, inputSideColumn},'Left')
+            currentTrial.sides = ['L'];
+        elseif strcmp(txtFile{ii, inputSideColumn},'Right')
+            currentTrial.sides = ['R'];
+        else
+            currentTrial.sides = [txtFile{ii, inputSideColumn}];
+        end
+        if ~ismember(currentTrial.sides, currentSession.sides)
+            currentSession.sides = [currentSession.sides, currentTrial.sides];
+        end
+    end
+    number_of_sides = length(currentTrial.sides);
+    if Normalization == 1
+        eventsMap = {'Foot Strike', 'Opposite Foot Off', 'Opposite Foot Strike', ...
+                                  'Foot Off', 'Foot Strike'};
+    elseif Normalization == 2
+        eventsMap = {'Foot Strike', 'Foot Off', 'Foot Strike'};
+    elseif Normalization == 3
+        eventsMap = {'Foot Strike', 'Foot Off1', 'Foot Off2','Foot Strike'};
+    elseif Normalization == 4
+        eventsMap = {'Foot Strike','General Event','Foot Off','Foot Strike'};
+    elseif Normalization == 5
+        eventsMap = {'Foot Strike', 'Foot Off', 'General Event'};
+    elseif Normalization == 6
+        eventsMap = {'Foot Off', 'General Event', 'Foot Off'};
+    elseif Normalization == 7
+        eventsMap = {'General Event', 'Foot Off', 'Foot Strike', 'General Event'};
+    elseif Normalization == 8
+        eventsMap = {'Foot Strike', 'General Event', 'Foot Off'};
+    elseif Normalization == 9
+        eventsMap = {'Foot Off', 'Foot Strike','Foot Off'};
+    elseif Normalization == 10
+        eventsMap = {'Foot Strike', 'Foot Strike'};
+    elseif Normalization == 11
+        eventsMap = {'Foot Strike', 'General Event'};
+    end
+    currentTrial.validateProperties()
+    if currentTrial.flag == 1
+        warning(currentTrial.reasonForFlag)
+        addToProblemFiles(currentFilePath, currentTrial)
+        continue
+    end
+
+    % This step was necessary because we were orignially vector coding variables that came from
+    % running the foot and ankle model. Sometimes this created a new c3d file with _fa
+    % appended to the end. I wrote the function in a way that could be expanded to other 
+    % suffixes. I temporarily only prompted the user if it was a normal walking trial, but if
+    % you have suffixes for another type of trial, you can remove the "if Normalization == 1" from
+    % below and at the prompt (search for "appendPrompt")
+    if Normalization == 1
+        if ~strcmp(appendPrompt, 'No')
+            switch appendPrompt
+                case 'Custom'
+                    suffix = input('Try to append this to file names: ', 's');
+                    appendToFileName(currentSession, currentTrial, suffix)
+                case '_fa' 
+                    suffix = '_fa';
+                    appendToFileName(currentSession, currentTrial, suffix)
+            end
+            currentFilePath = strcat(currentSession.Folder, currentTrial.fileName);
+        end
+    end
+
+    fprintf('(%d/%d)', ii, number_of_files)
+    try
+        openc3d(C3DCom,1,currentFilePath);
+    catch ME
+        currentTrial.reasonForFlag = ME.message;
+        warning(ME.message)
+        continue
+    end
+    %% Import C3D data
+    fprintf('Importing data...\n')
+    frames = nframes(C3DCom);
+    currentTrial.DataArray = zeros(frames,3,number_of_variables, number_of_sides);
+    %% Collects data from patient c3d file
+    for jj = 1:number_of_sides
+        for kk=1:number_of_variables
+            v=cell2mat(genvarname(strcat(currentTrial.sides(jj),Variables(1,kk))));
+            X=get3dtarget(C3DCom,v,0);
+            if isnan(X)
+                v2 = strcat('Spec2:',v); %add subject name to front of traj
+                X=get3dtarget(C3DCom,v2,0); %pull Subj_traj
+            end
+
+            % I put this step in a try-catch, so if there is a size mismatch error we can get 
+            % more information about the size of the vectors.
+            try            
+                currentTrial.DataArray(:,:,kk,jj)=X;
+            catch ME
+                errorA = currentTrial.DataArray;
+                errorB = X;
+                currentTrial.flag = 1;
+                switch ME.identifier
+                    case 'MATLAB:subsassigndimmismatch'
+                        if(size(errorA,2) ~= size(errorB,2))
+                            currentTrial.flag = 1;
+                            msg = ['Dimension mismatch occurred: First argument has ', ...
+                                num2str(size(errorA,2)),' columns while second has ', ...
+                                num2str(size(errorB,2)),' columns.'];
+                            fprintf('current variable: %s has a problem \n', Variables{1,kk})
+                            currentTrial.reasonForFlag = msg;
+                        elseif(size(errorA,1) ~= size(errorB,1))
+                            msg = ['Dimension mismatch occurred: First argument has ', ...
+                                num2str(size(errorA,1)),' rows while second has ', ...
+                                num2str(size(errorB,1)),' rows.'];
+                            fprintf('current variable: %s \n', Variables{1,kk})
+                        elseif(size(errorA,3) ~= size(errorB,3))
+                            msg = ['Dimension mismatch occurred: First argument has ', ...
+                                num2str(size(errorA,3)),' matrixes while second has ', ...
+                                num2str(size(errorB,3)),' matrixes.'];
+                            fprintf('current variable: %s \n', Variables{1,kk})
+                        end
+                        currentTrial.reasonForFlag = strcat(ME.message,msg);
+                    otherwise
+                        currentTrial.reasonForFlag = ME.message;
+                end
+                break
+            end
+        end
+    end
+
+    if currentTrial.flag == 1
+        warning(currentTrial.reasonForFlag)
+        addToProblemFiles(currentFilePath, currentTrial)
+        continue
+    end
+
+    for jj = 1:number_of_sides
+        for kk = 1:number_of_variables
+            if sum(currentTrial.DataArray(:,:,kk,jj)) == 0
+                currentTrial.flag = 1;
+                currentTrial.reasonForFlag = 'Data array is empty';
+                break
+            end
+        end
+        if currentTrial.flag == 1
+            break
+        end
+    end
+    if currentTrial.flag == 1;
+        addToProblemFiles(currentFilePath, currentTrial)
+        warning(currentTrial.reasonForFlag)
+        continue
+    end
+
+    %% Get events and time normalize
+    warning('off','MATLAB:chckxy:IgnoreNaN')
+    currentTrial.getEvents(C3DCom, Variables); %getEvents calls timeNormalizeData
+    if currentTrial.flag == 1
+        addToProblemFiles(currentFilePath, currentTrial)
+        warning(currentTrial.reasonForFlag)
+        continue
+    end
+
+    % Calculates Measures specified in the "Measures" tab of variableList
+    if variablePulling
+        fprintf('Running variable pull...\n')
+        currentTrial.variablePullResults = zeros(1,number_of_measures,number_of_sides);
+        currentTrial.variablePullTiming = zeros(1,number_of_measures,number_of_sides);
+        for jj = 1:number_of_measures
+            VariablePullOutputColumnCounter = length(header) + 2;
+            currentVariable = txtMeasures(jj,1);
+            currentPlane = txtMeasures(jj,2);
+            event1 = txtMeasures(jj,3);
+            event2 = txtMeasures(jj,4);
+            currentFeature = txtMeasures(jj,5);
+            currentLabel = txtMeasures(jj,6);
+            gettingTime = txtMeasures(jj,7);
+            for kk = 1:number_of_sides
+                DataCycle = currentTrial.GaitCycle(:,:,:,kk);
+                CycleNorm = currentTrial.CycleNorm(:,:,kk);
+                [currentResult,currentTiming] = variablePull(currentVariable, currentPlane, event1, event2, ...
+                                                currentFeature, currentLabel, gettingTime, DataCycle, CycleNorm);
+                currentTrial.variablePullResults(1,jj,kk) = currentResult;
+                currentTrial.variablePullTiming(1,jj,kk) = currentTiming;
+            end
+        end
+    end
+
+    if currentTrial.flag == 1
+        warning(currentTrial.reasonForFlag)
+        addToProblemFiles(currentFilePath, currentTrial)
+        continue
+    end
+
+    % Calculates bin counts of couples specified in the "Vector Code" tab of variableList
+    if vectorCoding
+        fprintf('Vector Coding...\n')
+        %% Parse Variable List
+        for jj = 1:number_of_vector_code_pairs
+            currentVariable1 = txtVectorCode(jj,1);
+            currentVariable2 = txtVectorCode(jj,4);
+            currentPlane1 = txtVectorCode(jj,2);
+            currentPlane2 = txtVectorCode(jj,5);
+            norm1 = numVectorCode(jj,1);
+            norm2 = numVectorCode(jj,4);
+            event1 = txtVectorCode(jj,7);
+            event2 = txtVectorCode(jj,8);
+
+            for kk = 1:number_of_sides
+                currentSide = currentTrial.sides(kk);
+                if kk == 2
+                    if strcmp(PreviewResponse, 'Yes') 
+                        continuePrompt = questdlg('Next Side?', ...
+                            'Plot Validation Prompt', ...
+                            'Yes','Next Joint/Seg Pair', 'Stop Program', 'Yes');
+                            drawnow; pause(0.05);
+                        if strcmp(continuePrompt, 'Next Joint/Seg Pair')
+                            close
+                            continue
+                        elseif strcmp(continuePrompt, 'Stop Program')
+                            close
+                            return
+                        else
+                            close
+                        end
+                    end
+                end
+                DataCycle = currentTrial.GaitCycle(:,:,:,kk);
+                CycleNorm = currentTrial.CycleNorm(:,:,kk);
+                [mainFigure,figureName, bincounts] = VectorCode(currentVariable1, currentPlane1, norm1,...
+                                                     currentVariable2, currentPlane2, norm2, ...
+                                                     event1, event2, currentSubject, DataCycle, CycleNorm, kk);
+                figureName = char(strcat(num2str(currentSubject.ID), {' '}, currentTrial.fileName(1:end-4), {' - '}, figureName));
+                if mainFigure == 9999
+                    msg = sprintf('Invalid figure for file %s (R Side, %s %s). Moving on to next side...', currentFile, currentVariable1{:}, currentVariable2{:});
+                    warning(msg)
+                    currentTrial.flag = 1;
+                    currentTrial.reasonForFlag = msg;
+                    addToProblemFiles(currentFilePath, currentTrial)
+                else
+                    saveFigure(currentSession, mainFigure, figureName)
+                end
+                
+                    header = generateHeader(currentSubject, currentSession, currentTrial, currentSide);
+                
+                    outputVectorCode(rowCounter, 1:length(header)) = header;
+                    
+                    outputVectorCode{rowCounter, outputVectorCodeVariable1Column} = currentVariable1{:};
+                    outputVectorCode{rowCounter, outputVectorCodePlane1Column} = currentPlane1{:};
+                    outputVectorCode{rowCounter, outputVectorCodeVariable2Column} = currentVariable2{:};
+                    outputVectorCode{rowCounter, outputVectorCodePlane2Column} = currentPlane2{:};
+
+                    % Bin Counts Cycle
+                    outputVectorCode{rowCounter, outputVectorCodeCycle_PDIPColumn} = bincounts(1,1);
+                    outputVectorCode{rowCounter, outputVectorCodeCycle_IPColumn} = bincounts(1,2);
+                    outputVectorCode{rowCounter, outputVectorCodeCycle_DDIPColumn} = bincounts(1,3);
+                    outputVectorCode{rowCounter, outputVectorCodeCycle_DDAPColumn} = bincounts(1,4);
+                    outputVectorCode{rowCounter, outputVectorCodeCycle_APColumn} = bincounts(1,5);
+                    outputVectorCode{rowCounter, outputVectorCodeCycle_PDAPColumn} = bincounts(1,6);
+
+                    if Normalization == 1
+                        % Bin Counts LR
+                        outputVectorCode{rowCounter,outputVectorCodeLR_PDIPColumn} = bincounts(2,1);
+                        outputVectorCode{rowCounter,outputVectorCodeLR_IPColumn} = bincounts(2,2);
+                        outputVectorCode{rowCounter,outputVectorCodeLR_DDIPColumn} = bincounts(2,3);
+                        outputVectorCode{rowCounter,outputVectorCodeLR_DDAPColumn} = bincounts(2,4);
+                        outputVectorCode{rowCounter,outputVectorCodeLR_APColumn} = bincounts(2,5);
+                        outputVectorCode{rowCounter,outputVectorCodeLR_PDAPColumn} = bincounts(2,6);
+
+                        % Bin Counts SLS
+                        outputVectorCode{rowCounter,outputVectorCodeSLS_PDIPColumn} = bincounts(3,1);
+                        outputVectorCode{rowCounter,outputVectorCodeSLS_IPColumn} = bincounts(3,2);
+                        outputVectorCode{rowCounter,outputVectorCodeSLS_DDIPColumn} = bincounts(3,3);
+                        outputVectorCode{rowCounter,outputVectorCodeSLS_DDAPColumn} = bincounts(3,4);
+                        outputVectorCode{rowCounter,outputVectorCodeSLS_APColumn} = bincounts(3,5);
+                        outputVectorCode{rowCounter,outputVectorCodeSLS_PDAPColumn} = bincounts(3,6);
+
+                        % Bin Counts PS
+                        outputVectorCode{rowCounter,outputVectorCodePS_PDIPColumn} = bincounts(4,1);
+                        outputVectorCode{rowCounter,outputVectorCodePS_IPColumn} = bincounts(4,2);
+                        outputVectorCode{rowCounter,outputVectorCodePS_DDIPColumn} = bincounts(4,3);
+                        outputVectorCode{rowCounter,outputVectorCodePS_DDAPColumn} = bincounts(4,4);
+                        outputVectorCode{rowCounter,outputVectorCodePS_APColumn} = bincounts(4,5);
+                        outputVectorCode{rowCounter,outputVectorCodePS_PDAPColumn} = bincounts(4,6);
+                    end
+                    rowCounter = rowCounter + 1;
+                
+
+                if strcmp(PreviewResponse, 'Yes')
+                    continuePrompt = questdlg('Continue to next in Variable List?', ...
+                        'Plot Validation Prompt', ...
+                        'Yes','Next File', 'Stop', 'Yes');
+                        drawnow; pause(0.05);  % This prevents matlab from hanging after the response is recieved
+                    if strcmp(continuePrompt, 'Next File')
+                        close all 
+                        break
+                    elseif strcmp(continuePrompt, 'Stop')
+                        close all 
+                        return
+                    else
+                        close all
+                    end
+                end
+            end
+        end
+
+        if currentTrial.flag == 1
+            warning(currentTrial.reasonForFlag)
+            addToProblemFiles(currentFilePath, currentTrial)
+            continue
+        end
+    end
+end
+
+
+
+Current file is AM1114.c3d, and AM1114_fa.c3d exists, so using that file instead.
+(84/234)J:\P100_149\PD\137354\AM11\AM1114_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+java.lang.OutOfMemoryError: Java heap space
+	at java.awt.image.DataBufferInt.<init>(Unknown Source)
+	at java.awt.image.Raster.createPackedRaster(Unknown Source)
+	at java.awt.image.DirectColorModel.createCompatibleWritableRaster(Unknown Source)
+	at java.awt.image.BufferedImage.<init>(Unknown Source)
+	at sun.java2d.pipe.DrawImage.renderImageXform(Unknown Source)
+	at sun.java2d.pipe.DrawImage.transformImage(Unknown Source)
+	at sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+	at sun.java2d.pipe.DrawImage.copyImage(Unknown Source)
+	at sun.java2d.pipe.ValidatePipe.copyImage(Unknown Source)
+	at sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+	at sun.java2d.SunGraphics2D.drawImage(Unknown Source)
+	at com.mathworks.hg.print.Graphics2DDecorator.drawImage(Graphics2DDecorator.java:700)
+	at jogamp.opengl.awt.AWTTilePainter$2.display(AWTTilePainter.java:380)
+	at com.jogamp.opengl.util.TileRendererBase$1.display(TileRendererBase.java:658)
+	at jogamp.opengl.GLDrawableHelper.displayImpl(GLDrawableHelper.java:691)
+	at jogamp.opengl.GLDrawableHelper.display(GLDrawableHelper.java:673)
+	at com.jogamp.opengl.awt.GLJPanel$Updater.plainPaint(GLJPanel.java:1450)
+	at com.jogamp.opengl.awt.GLJPanel$11.run(GLJPanel.java:1527)
+	at jogamp.opengl.GLDrawableHelper.invokeGLImpl(GLDrawableHelper.java:1277)
+	at jogamp.opengl.GLDrawableHelper.invokeGL(GLDrawableHelper.java:1131)
+	at com.jogamp.opengl.awt.GLJPanel$OffscreenBackend.doPlainPaint(GLJPanel.java:2110)
+	at com.jogamp.opengl.awt.GLJPanel.print(GLJPanel.java:919)
+	at com.mathworks.hg.peer.JavaSceneServerGLJPanel.print(JavaSceneServerGLJPanel.java:95)
+	at javax.swing.JComponent.printAll(Unknown Source)
+	at com.mathworks.hg.peer.HeavyweightLightweightContainerFactory$FigurePanelContainerPrinter.printFigurePanel(HeavyweightLightweightContainerFactory.java:635)
+	at com.mathworks.hg.peer.HeavyweightLightweightContainerFactory$FigurePanelContainerLight.printFigurePanel(HeavyweightLightweightContainerFactory.java:464)
+	at com.mathworks.hg.util.HGRasterOutputHelper$1.run(HGRasterOutputHelper.java:149)
+	at com.mathworks.jmi.AWTUtilities$Invoker$5$1.run(AWTUtilities.java:591)
+	at com.mathworks.mvm.context.ThreadContext$1.call(ThreadContext.java:76)
+	at com.mathworks.mvm.context.ThreadContext.callWithContext(ThreadContext.java:105)
+	at com.mathworks.mvm.context.ThreadContext.runWithContext(ThreadContext.java:73)
+	at com.mathworks.mvm.context.MvmContext.runWithContext(MvmContext.java:107)
+!!!!!!!!
+java.lang.Exception: Stack trace
+	at java.lang.Thread.dumpStack(Unknown Source)
+	at com.mathworks.hg.util.OutputHelperProcessingException.<init>(OutputHelperProcessingException.java:17)
+	at com.mathworks.hg.util.HGRasterOutputHelper.generateOutput(HGRasterOutputHelper.java:168)
+!!!!!!!!
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('print', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\graphics\print.m', 102)" style="font-weight:bold">print</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\graphics\print.m',102,0)">line 102</a>)
+Cannot create output using the specified resolution. Try a lower resolution or a smaller output size.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('saveas', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\saveas.m', 168)" style="font-weight:bold">saveas</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\general\saveas.m',168,0)">line 168</a>)
+        print( h, name, ['-d' dev{i}] )
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('saveFigure', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\saveFigure.m', 10)" style="font-weight:bold">saveFigure</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\saveFigure.m',10,0)">line 10</a>)
+        saveas(mainFigure, fullfile(customSavePath,figureName), 'jpg')
+} 
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 473)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',473,0)">line 473</a>)] 
+Current file is ac0805.c3d, and ac0805_fa.c3d exists, so using that file instead.
+(1/234)J:\P100_149\PD\111843\ac08\ac0805_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 111843 ac0805_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 111843 ac0805_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 111843 ac0805_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 111843 ac0805_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 111843 ac0805_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 111843 ac0805_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 111843 ac0805_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 111843 ac0805_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 111843 ac0805_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 111843 ac0805_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 111843 ac0805_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created: Subject 112908 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 502)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',502,0)">line 502</a>)] 
+Current file is jh0808.c3d, and jh0808_fa.c3d exists, so using that file instead.
+(2/234)J:\P100_149\PD\112908\jh08\jh0808_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 112908 jh0808_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 112908 jh0808_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 112908 jh0808_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 112908 jh0808_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 112908 jh0808_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 112908 jh0808_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 112908 jh0808_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 112908 jh0808_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 112908 jh0808_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 112908 jh0808_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 112908 jh0808_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+Current file is jh0811.c3d, and jh0811_fa.c3d exists, so using that file instead.
+(3/234)J:\P100_149\PD\112908\jh08\jh0811_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 112908 jh0811_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 112908 jh0811_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 112908 jh0811_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 112908 jh0811_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 112908 jh0811_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 112908 jh0811_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 112908 jh0811_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 112908 jh0811_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 112908 jh0811_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 112908 jh0811_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 112908 jh0811_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created: Subject 112938 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 502)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',502,0)">line 502</a>)] 
+Current file is CB0813.c3d, and CB0813_fa.c3d exists, so using that file instead.
+(4/234)J:\P100_149\PD\112938\CB08\CB0813_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 112938 CB0813_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 112938 CB0813_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 112938 CB0813_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 112938 CB0813_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 112938 CB0813_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 112938 CB0813_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 112938 CB0813_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 112938 CB0813_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 112938 CB0813_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 112938 CB0813_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 112938 CB0813_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+
+
+New Subject Created: Subject 114451 
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 502)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',502,0)">line 502</a>)] 
+Current file is GG0917.c3d, and GG0917_fa.c3d exists, so using that file instead.
+(5/234)J:\P100_149\PD\114451\GG09\GG0917_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 114451 GG0917_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+Saved 114451 GG0917_fa - LHDFTA Sagittal vs LHDFTA Coronal.jpg in custom folder
+Saved 114451 GG0917_fa - LHDFTA Sagittal vs LHDFTA Transverse.jpg in custom folder
+Saved 114451 GG0917_fa - LFFTA Sagittal vs LFFTA Coronal.jpg in custom folder
+Saved 114451 GG0917_fa - LFFTA Sagittal vs LFFTA Transverse.jpg in custom folder
+Saved 114451 GG0917_fa - LFFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 114451 GG0917_fa - LHDFTA Sagittal vs LFFTA Sagittal.jpg in custom folder
+Saved 114451 GG0917_fa - LHDFTA Coronal vs LFFTA Coronal.jpg in custom folder
+Saved 114451 GG0917_fa - LHDFTA Transverse vs LFFTA Transverse.jpg in custom folder
+Saved 114451 GG0917_fa - LHDFTA Coronal vs LFFTA Transverse.jpg in custom folder
+Saved 114451 GG0917_fa - LFFTA Transverse vs LFFTA Coronal.jpg in custom folder
+
+number_of_subjects =
+
+     4
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 950)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',950,0)">line 950</a>)
+                        currentSession.aveCycleNorm(:,:,2) = currentSession.aveCycleNorm(:,:,2) + currentTrial.CycleNorm(:,:,ll);
+} 
+memory
+Maximum possible array:     11004 MB (1.154e+10 bytes) *
+Memory available for all arrays:     11004 MB (1.154e+10 bytes) *
+Memory used by MATLAB:      2149 MB (2.254e+09 bytes)
+Physical Memory (RAM):      8178 MB (8.576e+09 bytes)
+
+*  Limited by System Memory (physical + swap file) available.
+clear
+clc
+main
+Loading file list...
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interp1>sanitycheckmethod', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\polyfun\interp1.p', 252)" style="font-weight:bold">interp1>sanitycheckmethod</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\polyfun\interp1.p',252,0)">line 252</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interp1>parseinputs', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\polyfun\interp1.p', 401)" style="font-weight:bold">interp1>parseinputs</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\polyfun\interp1.p',401,0)">line 401</a>)
+        method = sanitycheckmethod(varargin{end});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interp1', 'C:\Program Files\MATLAB\R2016a\toolbox\matlab\polyfun\interp1.p', 80)" style="font-weight:bold">interp1</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2016a\toolbox\matlab\polyfun\interp1.p',80,0)">line 80</a>)
+[method,extrapval,ndataarg,pp] = parseinputs(varargin{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('multiWaitbar>iMakeColors', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\multiWaitbar.m', 410)" style="font-weight:bold">multiWaitbar>iMakeColors</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\multiWaitbar.m',410,0)">line 410</a>)
+cols(:,3) = max( 0, min( 1, interp1( breaks, cols(breaks,3), y, 'pchip' ) ) );
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('multiWaitbar>iAddEntry', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\multiWaitbar.m', 432)" style="font-weight:bold">multiWaitbar>iAddEntry</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\multiWaitbar.m',432,0)">line 432</a>)
+cdata = iMakeColors( color, 16 );
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('multiWaitbar', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\multiWaitbar.m', 132)" style="font-weight:bold">multiWaitbar</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\multiWaitbar.m',132,0)">line 132</a>)
+    entries = iAddEntry( FIGH, entries, label, 0, defbarcolor, bgcol );
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 461)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',461,0)">line 461</a>)
+    multiWaitbar('Processing File List', ii/number_of_files);
+} 
+dbstop if error
+main
+Loading file list...
+[Warning: A 'results.xlsx' file already exists in the path. This file will be overridden when the program completes. If you don't
+want those results to be lost, rename or move the file.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 170)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',170,0)">line 170</a>)] 
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 473)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',473,0)">line 473</a>)] 
+(1/1)W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Vector Code\test data\123456\BC01\BC0110_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 123456 BC0110_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+number_of_subjects =
+
+     1
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 951)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',951,0)">line 951</a>)
+                        currentSession.aveCycleNorm(:,:,2) = currentSession.aveCycleNorm(:,:,2) + currentTrial.CycleNorm(:,:,ll);
+} 
+main
+Loading file list...
+[Warning: A 'results.xlsx' file already exists in the path. This file will be overridden when the program completes. If you don't
+want those results to be lost, rename or move the file.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 170)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',170,0)">line 170</a>)] 
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 473)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',473,0)">line 473</a>)] 
+(1/1)W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Vector Code\test data\123456\BC01\BC0110_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+Saved 123456 BC0110_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+number_of_subjects =
+
+     1
+
+Running average variable pull by context...
+running vector code average by context
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('VectorCode', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\VectorCode.m', 265)" style="font-weight:bold">VectorCode</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\VectorCode.m',265,0)">line 265</a>)
+    X = [0 0 changeLocations(1) changeLocations(1)];
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 1194)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',1194,0)">line 1194</a>)
+                        [mainFigure,figureName, bincounts] = VectorCode(currentVariable1, currentPlane1, norm1,...
+} 
+main
+Loading file list...
+[Warning: A 'results.xlsx' file already exists in the path. This file will be overridden when the program completes. If you don't
+want those results to be lost, rename or move the file.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 170)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',170,0)">line 170</a>)] 
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 473)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',473,0)">line 473</a>)] 
+(1/1)W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Vector Code\test data\123456\BC01\BC0110_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+changeLocations =
+
+     1
+     3
+     8
+    11
+    14
+    19
+    26
+    28
+    42
+    44
+    45
+    51
+    55
+    59
+    60
+    61
+    67
+    71
+    74
+    78
+    92
+    94
+    96
+    97
+    98
+
+Saved 123456 BC0110_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+number_of_subjects =
+
+     1
+
+Running average variable pull by context...
+running vector code average by context
+
+changeLocations =
+
+   Empty matrix: 0-by-1
+
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('VectorCode', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\VectorCode.m', 261)" style="font-weight:bold">VectorCode</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\VectorCode.m',261,0)">line 261</a>)
+    X = [0 0 changeLocations(1) changeLocations(1)];
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 1194)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',1194,0)">line 1194</a>)
+                        [mainFigure,figureName, bincounts] = VectorCode(currentVariable1, currentPlane1, norm1,...
+} 
+main
+Loading file list...
+[Warning: A 'results.xlsx' file already exists in the path. This file will be overridden when the program completes. If you don't
+want those results to be lost, rename or move the file.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 170)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',170,0)">line 170</a>)] 
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 473)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',473,0)">line 473</a>)] 
+(1/1)W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Vector Code\test data\123456\BC01\BC0110_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+changeLocations =
+
+     1
+     3
+     8
+    11
+    14
+    19
+    26
+    28
+    42
+    44
+    45
+    51
+    55
+    59
+    60
+    61
+    67
+    71
+    74
+    78
+    92
+    94
+    96
+    97
+    98
+
+<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\VectorCode.m',261,1)">261 </a>    X = [0 0 changeLocations(1) changeLocations(1)];
+if system_dependent('IsDebugMode')==1, dbcont; end
+Saved 123456 BC0110_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+number_of_subjects =
+
+     1
+
+Running average variable pull by context...
+running vector code average by context
+
+changeLocations =
+
+   Empty matrix: 0-by-1
+
+<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\VectorCode.m',261,1)">261 </a>    X = [0 0 changeLocations(1) changeLocations(1)];
+clear
+clc
+if system_dependent('IsDebugMode')==1, dbquit; end
+main
+Loading file list...
+[Warning: A 'results.xlsx' file already exists in the path. This file will be overridden when the program completes. If you don't
+want those results to be lost, rename or move the file.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 170)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',170,0)">line 170</a>)] 
+Loading variable list...
+Motion Lab Systems C3DServer is now Active within MATLAB
+Your COM object variable is now loaded
+ 
+Written by:  Matthew Walker and Michael Rainbow, Shriners Motion Analysis Lab - Erie, PA
+ 
+Evaluation C3DServer
+Version 1.203
+Evaluation Copy
+Motion Lab Systems,Inc.
+
+
+
+[Warning: number is empty] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Subject/validateProperties', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m', 26)" style="font-weight:bold">Subject/validateProperties</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\Subject.m',26,0)">line 26</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main', 'W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m', 473)" style="font-weight:bold">main</a> (<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',473,0)">line 473</a>)] 
+(1/1)W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Vector Code\test data\123456\BC01\BC0110_fa.c3d has been loaded.
+Importing data...
+Importing events from C3D file...
+Time normalizing data...
+Running variable pull...
+Vector Coding...
+
+changeLocations =
+
+     1
+     3
+     8
+    11
+    14
+    19
+    26
+    28
+    42
+    44
+    45
+    51
+    55
+    59
+    60
+    61
+    67
+    71
+    74
+    78
+    92
+    94
+    96
+    97
+    98
+
+<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\VectorCode.m',261,1)">261 </a>    X = [0 0 changeLocations(1) changeLocations(1)];
+if system_dependent('IsDebugMode')==1, dbcont; end
+Saved 123456 BC0110_fa - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+
+number_of_subjects =
+
+     1
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+Running average variable pull by context...
+<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\main.m',1163,1)">1163 </a>if vectorCoding
+if system_dependent('IsDebugMode')==1, dbcont; end
+running vector code average by context
+
+changeLocations =
+
+     1
+     3
+     8
+    11
+    14
+    19
+    26
+    28
+    42
+    44
+    45
+    51
+    55
+    59
+    60
+    61
+    67
+    71
+    74
+    78
+    92
+    94
+    96
+    97
+    98
+
+<a href="matlab: opentoline('W:\Movement Science Lab\Staff\FandA\Coupling\Beitter\MATLAB\Testing\vector-code\VectorCode.m',261,1)">261 </a>    X = [0 0 changeLocations(1) changeLocations(1)];
+if system_dependent('IsDebugMode')==1, dbcont; end
+Saved 123456 BC01 Ave - LKneeAngles Sagittal vs LAnkleAngles Sagittal.jpg in custom folder
+outputting averaged VP results by context
+Data added to 'Variable Pull' sheet in results.xls
+Data added to 'Raw Data' sheet in results.xls
+Data added to 'Avg Variable Pull' sheet in results.xls
+Data added to 'Vector Code' sheet in results.xls
+Data added to 'Avg Vector Code' sheet in results.xls
+Data added to 'Ave Raw Data' sheet in results.xls

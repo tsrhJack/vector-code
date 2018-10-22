@@ -33,7 +33,7 @@ classdef Session < handle
                 currentSubject.flag = 1;
                 currentSubject.reasonForFlag = sprintf(['subject session in file path does not match given ', ...
                                                         'subject session in file list. (Session in path: %s. ',...
-                                                        'Session given: %s.)'],session.name, testSession);
+                                                        'Session given: %s.)'],session.name, testName);
             end
         end
 
